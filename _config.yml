@@ -1,13 +1,11 @@
 ### Site Settings ###
-title               : portfolYOU
-description         : >-
-                      I turn coffee :coffee: into code,
-                      use tabs over spaces
-                      and never broke production.
-baseurl             : "/portfolYOU"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : YoussefRaafatNasry/portfolYOU     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+title               : Kellen Vu
+description         : >- # I changed this--now you have to manually edit it in _includes/landing.html
+                      Description
+baseurl             : "" # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+repository          : "" # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
-open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
+open_new_tab        : false # Opens external URLs in new tab (works for posts, projects and navbar only)
 
 
 ### Plugins ###
@@ -20,23 +18,22 @@ nav_exclude:                                            # The following paths ar
   - pages/tags.html
   - pages/404.html
   - pages/index.md
-  - documentation/partials/**                           # For Documentation Only
 
 
 ### Author Info ###
 author:
-  name              : John Doe
-  image             : https://i.imgur.com/uyDNQnn.jpg
-  behance           : your_username
+  name              : Kellen Vu
+  image             : assets/kellen-vu-landing-headshot.jpg
+  # behance           : your_username
 # dribbble          : your_username
-  email             : username@domain.com
-  facebook          : your_username
-  github            : your_username
+  email             : kellen.vo.vu@gmail.com
+  # facebook          : your_username
+  github            : kellenvu
 # gitlab            : your_username
-# instagram         : your_username
+  instagram         : gracelessghost
 # kaggle            : your_username
-  linkedin          : your_username
-  medium            : your_username
+  linkedin          : kellenvu
+  # medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
 # stackoverflow     : your_user_id
@@ -44,7 +41,7 @@ author:
 # twitch            : your_username
   twitter           : your_username
 # vimeo             : your_username
-# youtube           : your_channel_name
+  youtube           : kellenvu
 # keybase           : your_username
 
 
@@ -57,8 +54,6 @@ collections:
   projects:
     output: true
     permalink: /projects/:name
-  elements:                                             # For Documentation Only
-    output: true                                        # For Documentation Only
 
 
 ### Disqus ###
@@ -90,11 +85,6 @@ defaults:
       type: "projects"
     values:
       layout: "page"
-  - scope:                                              # For Documentation Only
-      path: ""                                          # For Documentation Only
-      type: "elements"                                  # For Documentation Only
-    values:                                             # For Documentation Only
-      layout: "element"                                 # For Documentation Only
   - scope:
       path: ""
       type: "posts"
