@@ -1,17 +1,29 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-- title: Software Engineer, Google, UK
-  from: 2018
+- title: Software Engineer | <a href="https://www.codex.health/" target="_blank">Codex Health</a>
+  from: Jul 2023
   to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: >-
+                - Cloud engineering team<br>
+                - Builds cloud native applications on Google Cloud Platform with a strong emphasis on security and privacy<br>
+                - Designs and builds data pipelines to integrate a variety of sources ranging from patient data to consumer wearables in the cloud
+
+- title: Software Engineering Intern | Meta
+  from: Jun 2022
+  to: Sep 2022
+  description: >-
+                - Facebook iOS Notifications team<br>
+                - Redesigned the push notification interface for the Facebook app using SwiftUI and Objective-C
+
+- title: Research Assistant | <a href="https://raymondlab.stanford.edu/" target="_blank">Raymond Laboratory</a>
+  from: Jun 2020
+  to: Jun 2023
+  description: >-
+                - Investigated the neuroplasticity of eye movement control in mice, revealing similarities in plasticity mechanisms across species<br>
+                - Engineered a behavioral training protocol to adaptively refine gaze stability, informing potential therapies for eye movement disorders
+
+- title: Student | Stanford University
+  from: Sep 2019
+  to: Jun 2023
+  description: >-
+                - B.S. with Honors in Human Biology (concentration in Computational Neuroscience)<br>
+                - Minor in Computer Science<br>
+                - Recipient of the <a href="https://humsci.stanford.edu/current-students/sterling-award-undergraduates" target="_blank">J.E. Wallace Sterling Award for Scholastic Achievement</a>

@@ -7,13 +7,9 @@ weight: 3
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Hi! I'm a recent graduate from Stanford, where I studied Human Biology and Computer Science.
 
-<div class="row">
-{% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
-{% include about/skills.html title="Other Skills" source=site.data.other-skills %}
-</div>
+My vision is to integrate health and technology to improve human lives. From 2017 to 2019, I was a research assistant at the Barrow Neurological Institute, investigating electrophysiological biomarkers of Alzheimer's disease. At Stanford, my research focused on the neuroplasticity of eye movement control, informing potential therapies for cerebellar disorders. Now, I'm leveraging my computational skills at Codex Health, a Silicon Valley startup whose mission is to enhance patient care through clinical intelligence solutions.
 
 <div class="row">
 {% include about/timeline.html %}
