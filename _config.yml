@@ -18,6 +18,7 @@ landing:
 plugins:
   - jemoji
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 
 ### Navbar Settings ###
