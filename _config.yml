@@ -63,10 +63,11 @@ disqus:
 
 
 ### Analytics ###
+# Made obsolete by Google Analytics 4
 analytics:
   enabled: true # Set true to enable analytics
   google:
-    tracking_id: G-8CCMTCCQ97
+    measurement_id: G-8CCMTCCQ97
 
 
 ### Buy me a coffee ###
