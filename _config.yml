@@ -1,5 +1,5 @@
 ### Site Settings ###
-title               : Kellen Vu
+title               : Kellen Vu | Portfolio and Blog
 description         : "Kellen Vu: Stanford grad merging medicine & tech. Researcher in neuroplasticity & eye movement. Now enhancing patient care at Codex Health. Explore my blog & portfolio."
 baseurl             : "" # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : "kellenvu/kellenvu.github.io" # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
