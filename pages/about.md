@@ -9,7 +9,7 @@ weight: 3
 
 I'm a recent graduate from Stanford, where I studied Human Biology and Computer Science.
 
-My goal is to integrate medicine and technology to improve human health. At Stanford, my research focused on the neuroplasticity of eye movement control, informing potential therapies for cerebellar disorders. Now, I'm leveraging my computational skills at Codex Health, a Silicon Valley startup whose mission is to enhance patient care through clinical intelligence solutions.
+My goal is to integrate medicine and technology to improve human health. At Stanford, my research focused on the neuroplasticity of eye movement control, informing potential therapies for cerebellar disorders. Now, I'm leveraging my computational skills at Codex Health, a Silicon Valley startup whose mission is to improve chronic disease management through clinical intelligence solutions.
 
 # Experience
 
