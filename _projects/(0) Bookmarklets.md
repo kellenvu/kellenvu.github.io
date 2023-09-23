@@ -45,3 +45,15 @@ Bookmarklets are simple pieces of JavaScript code stored as bookmarks in your br
 **Usage**  
 1. Open your Gradescope dashboard, where you can you see your assignments and their scores.
 2. Click on this bookmarklet in your bookmarks bar.
+
+---
+
+## [Compute Mint Transaction Sum](javascript:var%20transactionElements%3Ddocument.querySelectorAll(%22.StyledComponents__TransactionAmount-fz9tib-3.cwjgNj%22)%2Ctotal%3D0%3BtransactionElements.forEach(function(b)%7Bvar%20a%3Db.textContent.trim()%3Bb%3Da.includes(%22-%22)%3Ba%3DparseFloat(a.replace(%22%24%22%2C%22%22).replace(%22%2C%22%2C%22%22).replace(%22-%22%2C%22%22))%3Btotal%2B%3Db%3F-a%3Aa%7D)%3Balert(%22Total%3A%20%22%2B(0%3Etotal%3F%22-%24%22%3A%22%24%22)%2BMath.abs(total).toFixed(2))%3Bvoid+0)
+
+(Drag this link to your bookmarks bar)
+
+**Purpose**: Compute the sum of all the transactions shown on your Mint page.
+
+**Usage**  
+1. Open your Mint transactions page. Filter as desired.
+2. Click on this bookmarklet in your bookmarks bar.
