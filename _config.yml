@@ -1,6 +1,6 @@
 ### Site Settings ###
 title               : Kellen Vu | Portfolio and Blog
-description         : "Kellen Vu: Stanford grad integrating medicine & tech. Neuro researcher. Software engineer at Codex Health, improving chronic disease maangement. Check out my blog & portfolio."
+description         : "Kellen Vu: Stanford grad integrating medicine and tech. Neuro researcher. Software engineer at Codex Health, innovating chronic disease management. Check out my blog and portfolio."
 baseurl             : "" # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : "kellenvu/kellenvu.github.io" # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
