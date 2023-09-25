@@ -15,7 +15,7 @@ Bookmarklets are simple pieces of JavaScript code stored as bookmarks in your br
 
 (Drag this link to your bookmarks bar)
 
-**Purpose**: Compute the total hours of events that are displayed in a Google Calendar search. Useful for if you need to, say, add up your total hours doing a specific activity for an application.
+**Purpose**: Compute the total hours of events that are displayed in a Google Calendar search. Useful for if you need to, say, add up your total hours doing a specific activity.
 
 **Usage**  
 1. Open Google Calendar and search for your desired events.
