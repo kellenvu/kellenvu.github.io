@@ -3,8 +3,8 @@
   to: present
   description: >-
                 - Cloud engineering team<br>
-                - Builds cloud native applications on Google Cloud Platform with a strong emphasis on security and privacy<br>
-                - Designs pipelines to integrate a variety of sources, ranging from patient data to consumer wearables in the cloud
+                - Developed the infrastructure for an isolated Personally Identifiable Information database to enhance data privacy<br>
+                - Designed a HIPAA-compliant user analytics data pipeline, replacing a previously non-compliant framework
 
 - title: Software Engineering Intern | Meta
   from: Jun 2022
