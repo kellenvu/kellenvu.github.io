@@ -7,9 +7,14 @@ weight: 3
 
 # About Me
 
-I was born and raised in Phoenix, AZ. I recently graduated from Stanford, where I studied Human Biology and Computer Science, and am now based in the Bay Area.
-
-My mission is to integrate medicine and technology to improve human health. At Stanford, my research focused on the neuroplasticity of eye movement control, informing potential therapies for cerebellar disorders. Now, I'm leveraging my computational skills at Codex Health, a seed-stage startup that is innovating technologies for chronic disease management.
+<div style="display: flex; align-items: center;">
+    <img src="/assets/kellen-vu-retiro.jpg" alt="Profile Picture" style="width: 200px; margin-right: 40px; border-radius: 8px;">
+    <div>
+        I was born and raised in Phoenix, AZ. I recently graduated from Stanford, where I studied Human Biology and Computer Science. Currently, I'm based in the Bay Area.<br>
+        <br>
+        My mission is to integrate medicine and technology to improve human health. At Stanford, my research focused on the neuroplasticity of eye movement control, informing potential therapies for cerebellar disorders. Now, I'm leveraging my computational skills at Codex Health, a seed-stage startup that is innovating technologies for chronic disease management.
+    </div>
+</div>
 
 # Education and Experience
 
