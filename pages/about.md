@@ -7,7 +7,7 @@ weight: 3
 
 # About Me
 
-Born and raised in Phoenix, I'm a recent graduate from Stanford, where I studied Human Biology and Computer Science.
+I was born and raised in Phoenix, AZ. I recently graduated from Stanford, where I studied Human Biology and Computer Science, and am now based in the Bay Area.
 
 My mission is to integrate medicine and technology to improve human health. At Stanford, my research focused on the neuroplasticity of eye movement control, informing potential therapies for cerebellar disorders. Now, I'm leveraging my computational skills at Codex Health, a seed-stage startup that is innovating technologies for chronic disease management.
 
