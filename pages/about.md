@@ -15,8 +15,6 @@ weight: 3
     </div>
 </div>
 
-
-
 # Education and Experience
 
 <div class="row">
