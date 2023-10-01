@@ -4,6 +4,8 @@ tags: [Stanford]
 description: A quarter-by-quarter recap of my Stanford highlights.
 ---
 
+**Curious about the Stanford experience?** 🌲 Whether you're a future Cardinal looking to get the inside scoop, a current student exploring what Stanford has to offer, or just a curious soul, you've come to the right place. From freshman to senior year, I'm excited to share my personal highlights!
+
 {% capture list_items %}
 Freshman (2019-20)
 Sophomore (2020-21)
