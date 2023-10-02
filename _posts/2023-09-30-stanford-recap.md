@@ -161,7 +161,3 @@ Senior (2022-23)
 4. **SENIOR SPRING**. Senior year ended with a bang, from a yacht party, to Disneyland, to Universal Studios, to Dinner on the Quad, to Wacky Walk (we dressed up as imPASTA syndrome).
 
 5. **COMMENCEMENT**. Stanford's president acknowledged me by name during his commencement speech for my work leading Stanford Habla.
-
----
-
-**Farewell, Stanford!** :heart:
