@@ -138,7 +138,7 @@ Senior (2022-23)
 
 ## Winter 2023
 
-<img src="https://lh6.googleusercontent.com/dbd5j1SxuJd7me3tz-zZbx7k9w-6i3g6g9pPAri9M5t8NlVdDeQYGw1oPSaAv1qhRbYvvxqRmMOXH1VeZcZ7MKbpN3-_7lfBmftWdn056Sm0K96iMK3sQ5u9F3O6nQJrVQ=w1280" class="rounded">
+<img src="/assets/posts/olive-oil-tasting.jpeg" class="rounded">
 
 1. **MADRID**. I studied abroad in Madrid! Check out my reflections [here](https://sites.google.com/view/kellenvu).
 
