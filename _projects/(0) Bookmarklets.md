@@ -56,7 +56,7 @@ Bookmarklets are simple pieces of JavaScript code stored as bookmarks in your br
 
 (Drag this link to your bookmarks bar)
 
-**Purpose**: Remove the inline comments on a GitHub PR code page. Makes it easier to copy/paste the code, without the comments getting in the way.
+**Purpose**: Demonstrating an example of this bookmarklet.
 
 **Usage**  
 1. Open a GitHub PR that has inline comments.
