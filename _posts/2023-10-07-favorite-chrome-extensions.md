@@ -1,5 +1,5 @@
 ---
-title: 11 Chrome extensions you should check out
+title: 11 Chrome extensions to check out
 tags: [Tech]
 description: A list of my favorite Chrome extensions, in order of how often I use them.
 ---
