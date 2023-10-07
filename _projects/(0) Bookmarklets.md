@@ -45,3 +45,16 @@ Bookmarklets are simple pieces of JavaScript code stored as bookmarks in your br
 **Usage**  
 1. Open your Gradescope dashboard, where you can you see your assignments and their scores.
 2. Click on this bookmarklet in your bookmarks bar.
+
+---
+
+## [Remove GitHub Inline Comments](javascript:for(var%20elements%3Ddocument.querySelectorAll(%22.inline-comments%22)%2Ci%3D0%3Bi%3Celements.length%3Bi%2B%2B)elements%5Bi%5D.parentNode.removeChild(elements%5Bi%5D)%3Bvoid+0)
+
+(Drag this link to your bookmarks bar)
+
+**Purpose**: Remove the inline comments on a GitHub PR code page. Makes it easier to copy/paste the code, without the comments getting in the way.
+
+**Usage**  
+1. Open a GitHub PR that has inline comments.
+2. Go to the `Files changed` tab.
+3. Click on this bookmarklet in your bookmarks bar.
