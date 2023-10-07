@@ -14,7 +14,7 @@ I often get asked about the Chrome extensions I use, so I thought I'd mention a 
 
 ![Previous Tab](https://lh3.googleusercontent.com/qhscoEJVmH3aRiyP7grPoIsjZq6m9pOgfQVkvAlqR7kdUUbPsZNHB_xisVFaJ930YsWLOSvIi9cyojlRV42b8uSK=w640-h400-e365-rj-sc0x00ffffff)
 
-**Why I Love It**: *If there's one extension I recommend, it's this one*. This extension creates a shortcut to switch back and forth to the previously active tab. I can't overstate how often I use this!
+**Why I Love It**: If there's one extension I recommend, it's this one. This extension creates a shortcut to switch back and forth to the previously active tab. I can't overstate how often I use this!
 
 Make sure to go to `chrome://extensions/shortcuts` to assign a custom shortcut.
 
