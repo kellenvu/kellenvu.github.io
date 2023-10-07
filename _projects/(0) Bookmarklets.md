@@ -64,7 +64,7 @@ Remove GitHub Inline Comments
 
 (Drag this link to your bookmarks bar)
 
-**Purpose**: Remove the inline comments on a GitHub PR code page. Makes it easier to copy/paste the code, without the comments getting in the way.
+**Purpose**: Remove the inline comments on a GitHub PR code page. Makes it easier to copy/paste the code without the comments getting in the way.
 
 **Usage**  
 1. Open a GitHub PR that has inline comments.

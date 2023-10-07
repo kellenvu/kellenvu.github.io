@@ -4,6 +4,8 @@ tags: [Stanford]
 description: A quarter-by-quarter recap of my Stanford highlights.
 ---
 
+{% include elements/figure.html image="https://cdn.pixabay.com/photo/2019/01/01/12/15/stanford-3906631_1280.jpg" caption="Source: Pixabay" %}
+
 **Curious about Stanford life?** 🌲 Whether you're a future Cardinal, a current student, or just passing by, here are some of my personal highlights from freshman to senior year.
 
 {% capture list_items %}
