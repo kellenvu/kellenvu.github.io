@@ -6,7 +6,7 @@ description: A list of my favorite Chrome extensions, in order of how often I us
 
 {% include elements/figure.html image="https://cdn.pixabay.com/photo/2015/05/19/07/45/browser-773216_1280.jpg" caption="Source: Pixabay" %}
 
-I often get asked about the Chrome extensions I use, so I thought I'd mention a few of my favorites. Here, I’ve listed them in order of how often I find myself relying on them—hope you find them handy!
+I often get asked about the Chrome extensions I use, so I thought I'd share a few of my favorites. Here, I’ve listed them in order of how often I find myself relying on them—hope you find them handy!
 
 ---
 
