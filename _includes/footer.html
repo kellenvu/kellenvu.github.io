@@ -11,5 +11,14 @@
     <small id="attribution">
         theme <a href="{{ theme_repo }}">{{ theme_name }}</a>
     </small>
+    <button id="back-to-top" title="Back to top">⬆</button>
 
 </footer>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        document.getElementById("back-to-top").addEventListener("click", function () {
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        });
+    });
+</script>

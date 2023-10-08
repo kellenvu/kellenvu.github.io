@@ -5,6 +5,13 @@ permalink: /photography/
 weight: 3
 ---
 
+{% capture list_items %}
+Portraits
+Graduation
+Travel
+{% endcapture %}
+{% include elements/list.html title="Table of Contents" type="toc" %}
+
 # Portraits
 
 ![shelly christina](/assets/photography/portraits/shelly-christina.png)
