@@ -50,7 +50,7 @@ Senior (2022-23)
 
 {% include elements/video.html id="rsXVMX8oaus" %}
 
-1. **POETRY INTO FILM**. During quarantine, I wrote, directed, and edited a short film based on the poem "Self-Inquiry Before the Job Interview" by Gary Soto. It won 2nd place in Stanford's Poetry Into Film festival.
+1. **POETRY INTO FILM**. During quarantine, I wrote, acted, and edited a short film based on the poem "Self-Inquiry Before the Job Interview" by Gary Soto. It won 2nd place in Stanford's Poetry Into Film festival.
 
 2. **ALiEM**. I became the official podcast engineer for [Academic Life in Emergency Medicine](https://academiclifeinem.podbean.com/).
 
