@@ -20,3 +20,4 @@ description: A portfolio of my event, grad, portrait, and travel photography.
 ![edward emma](/assets/projects/photography/grad/edward-emma.png)
 ![spray](/assets/projects/photography/grad/spray.jpg)
 ![vinita](/assets/projects/photography/grad/vinita.png)
+![yvonne](/assets/projects/photography/grad/yvonne.jpg)
