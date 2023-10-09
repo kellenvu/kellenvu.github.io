@@ -7,7 +7,7 @@ description: A collection of my custom bookmarklets.
 
 # Bookmarklets
 
-Bookmarklets are simple pieces of JavaScript code stored as bookmarks in your browser. They provide additional functionality to a page by manipulating its content or behavior. By clicking on a bookmarklet while on a specific web page, you can trigger the contained script to perform certain actions. On this page, you'll find some custom bookmarklets that I've written to make my life a little easier. :smile:
+Bookmarklets are simple pieces of JavaScript code stored as bookmarks in your browser. They provide additional functionality to a page by manipulating its content or behavior. By clicking on a bookmarklet while on a specific web page, you can trigger the contained script to perform certain actions. Here, you'll find some custom bookmarklets that I've written to make my life a little easier. :smile:
 
 {% capture list_items %}
 Compute Gradescope Raw Score
