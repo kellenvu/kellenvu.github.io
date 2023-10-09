@@ -1,4 +1,4 @@
-- title: Software Engineer | <a href="https://www.codex.health/" target="_blank">Codex Health</a>
+- title: Software Engineer | <a href="https://www.codex.health/">Codex Health</a>
   from: Jul 2023
   to: present
   image: /assets/timeline/codex.jpg
@@ -7,7 +7,7 @@
                 - Developed the infrastructure for an isolated Personally Identifiable Information database to enhance data privacy<br>
                 - Designed a HIPAA-compliant user analytics data pipeline, replacing a previously non-compliant framework
 
-- title: Software Engineering Intern | <a href="https://www.meta.com/" target="_blank">Meta</a>
+- title: Software Engineering Intern | <a href="https://www.meta.com/">Meta</a>
   from: Jun 2022
   to: Sep 2022
   image: /assets/timeline/meta.jpg
@@ -16,7 +16,7 @@
                 - Redesigned the push notification interface for the Facebook app using SwiftUI and Objective-C<br>
                 - Increased the push notification want rate by 17% and overall push conversions by 4%
 
-- title: Research Assistant | <a href="https://raymondlab.stanford.edu/" target="_blank">Raymond Lab</a>
+- title: Research Assistant | <a href="https://raymondlab.stanford.edu/">Raymond Lab</a>
   from: Jun 2020
   to: Jun 2023
   image: /assets/timeline/wu-tsai.jpg
@@ -24,11 +24,11 @@
                 - Investigated the neuroplasticity of eye movement control in mice, revealing similarities in plasticity mechanisms across species<br>
                 - Engineered a novel technique to evaluate cerebellar function in mice, informing potential therapies for cerebellar disorders
 
-- title: Student | <a href="https://www.stanford.edu/" target="_blank">Stanford University</a>
+- title: Student | <a href="https://www.stanford.edu/">Stanford University</a>
   from: Sep 2019
   to: Jun 2023
   image: /assets/timeline/stanford.jpg
   description: >-
                 - B.S. in Human Biology with Honors and Distinction (concentration in Computational Neuroscience)<br>
                 - Minor in Computer Science<br>
-                - Recipient of the <a href="https://humsci.stanford.edu/current-students/sterling-award-undergraduates" target="_blank">J.E. Wallace Sterling Award for Scholastic Achievement</a>
+                - Recipient of the <a href="https://humsci.stanford.edu/current-students/sterling-award-undergraduates">J.E. Wallace Sterling Award for Scholastic Achievement</a>
