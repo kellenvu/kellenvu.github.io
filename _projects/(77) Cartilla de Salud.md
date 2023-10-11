@@ -28,10 +28,21 @@ In 2019, a survey of 217 residents found that the top two requested human servic
 
 From interviewing residents, we confirmed that many patients faced **challenges viewing their online medical records** because of unreliable internet access.
 
-## Solution
+## Our Solution
 
-We created a bilingual health pamphlet called the **Cartilla de Salud**, modeled after a [**government-issued document in Mexico**](https://www.gob.mx/salud/articulos/cartillas-nacionales-de-salud-12270) that is used to track vaccinations, appointments, and health guidelines.
+![Cartilla standing](/assets/projects/cartilla-standing.jpg)
 
-**My Role**: Doing graphic design, writing the text, and presenting the pamphlet in Spanish
+We created a bilingual health booklet called the **Cartilla de Salud**, modeled after a [**government-issued document in Mexico**](https://www.gob.mx/salud/articulos/cartillas-nacionales-de-salud-12270) that is used to track vaccinations, appointments, and health guidelines.
 
-**Graphic Design**: We chose to **closely emulate** the design language of the original Cartilla Nacional de Salud, so that it would be familiar to residents who had immigrated from Mexico. Indeed, when we presented the cartilla, many residents responded well to the **familiarity of the design**.
+**Graphic Design**: We chose to **closely emulate** the design language of the original Cartilla Nacional de Salud so that it would be familiar to residents who had immigrated from Mexico. Indeed, when we presented the cartilla, many residents responded well to the **familiarity of the design**.
+
+**Content**: The cartilla was written in both English and Spanish. It included...
+
+- Instructions for patients and physicians
+- Fillable charts for medications and appointments
+- Guidelines for managing chronic diseases like hypertension and diabetes (approved by Dr. Catherine Heaney)
+- A QR code leading to a [video guide](https://www.youtube.com/watch?v=sSzE123L3dg) for accessibility
+
+**Distribution**: We drove to Pescadero and distributed **100 copies** of the booklet, in collaboration with a local community organization called Puente. I gave a presentation about the cartilla in Spanish during a community gathering. It was incredibly gratifying to see residents **taking extra copies** for their families, and talking about how **useful** the cartilla was back in Mexico.
+
+![Puente](/assets/projects/pescadero-puente.jpg)
