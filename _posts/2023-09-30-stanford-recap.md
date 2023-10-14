@@ -4,7 +4,7 @@ tags: [Stanford]
 description: A quarter-by-quarter recap of my Stanford highlights.
 ---
 
-{% include elements/figure.html image="https://cdn.pixabay.com/photo/2019/01/01/12/15/stanford-3906631_1280.jpg" caption="Source: Pixabay" %}
+![Stanford Main Quad](/assets/posts/stanford-hoover-quad.jpg)
 
 **Curious about Stanford life?** 🌲 Whether you're a future Cardinal, a current student, or just passing by, here are some of my personal highlights from freshman to senior year.
 
@@ -94,7 +94,7 @@ Senior (2022-23)
 
 ## Summer 2021
 
-<img src="https://stanforddaily.com/wp-content/uploads/2021/09/DSC082381-1200x800.jpg" class="rounded">
+![Bell's Books](https://stanforddaily.com/wp-content/uploads/2021/09/DSC082381-1200x800.jpg)
 
 1. **BIO-X**. I was among 74 out of 150 applicants to be selected as a Stanford Bio-X Undergraduate Research Fellow.
 
@@ -140,7 +140,7 @@ Senior (2022-23)
 
 ## Winter 2023
 
-<img src="/assets/posts/olive-oil-tasting.jpeg" class="rounded">
+![Olive oil tasting](/assets/posts/olive-oil-tasting.jpeg)
 
 1. **MADRID**. I studied abroad in Madrid! Check out my reflections [here](https://sites.google.com/view/kellenvu).
 
