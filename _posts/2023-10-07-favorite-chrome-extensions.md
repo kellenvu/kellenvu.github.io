@@ -1,12 +1,12 @@
 ---
 title: 11 Chrome extensions to check out
-tags: [Tech]
-description: A list of my favorite Chrome extensions, in order of how often I use them.
+tags: [Productivity]
+description: A list of my favorite Chrome extensions.
 ---
 
 {% include elements/figure.html image="https://cdn.pixabay.com/photo/2015/05/19/07/45/browser-773216_1280.jpg" caption="Source: Pixabay" %}
 
-I sometimes get asked about the Chrome extensions I use, so I thought I'd share a few of my favorites. Here, I’ve listed them in order of how often I use them. Hope you find them handy!
+I sometimes get asked about the Chrome extensions I use, so I thought I'd share a few of my favorites. Here, I’ve listed them in order of how often I use them (most to least often). Hope you find them handy!
 
 ---
 
