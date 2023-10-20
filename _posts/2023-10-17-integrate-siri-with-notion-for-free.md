@@ -7,7 +7,7 @@ comments: true
 
 **[Notion](https://www.notion.so/)** is one of the most powerful productivity apps around, but it's missing a key feature: it doesn't natively integrate with Apple's automation app, **Shortcuts**.
 
-Some third-party services like [Natuomate](https://www.nautomate.app/) have been developed to fill that gap, letting you add content to your Notion databases automatically—but they cost **money**.
+Some third-party services like [Nautomate](https://www.nautomate.app/) have been developed to fill that gap, letting you add content to your Notion databases automatically—but they cost **money**.
 
 Here, I will show you how to integrate Shortcuts with Notion at **no cost**. By the end of this guide, you should be able to add content to your Notion page with a simple **Siri voice command**.
 

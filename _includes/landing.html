@@ -34,8 +34,8 @@
     let myCanvas = createCanvas(windowWidth, windowHeight);
     myCanvas.parent('p5-canvas-container');
 
-    let area = width * height; // Area of the canvas
-    let totalNeurons = area * neuronDensity; // Total number of neurons based on screen size
+    let area = width * height;
+    let totalNeurons = area * neuronDensity;
 
     for (let i = 0; i < totalNeurons; i++) {
       neurons.push(new Neuron(random(width), random(height)));
