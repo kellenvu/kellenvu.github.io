@@ -31,3 +31,18 @@
   @include themed(background-color, $light, $dark);
 }
 
+.theme-image {
+  width: 100px;
+  display: block;
+  position: relative;
+
+  // This padding-top percentage reflects the aspect ratio of the background image
+  padding-top: 55%;
+
+  background-image: url('/assets/name-black.svg'); // your image path
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+
+  @include themed(background-image, url('/assets/name-black.svg'), url('/assets/name-white.svg'));
+}

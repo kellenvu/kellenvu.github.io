@@ -1,14 +1,41 @@
-<div class="row justify-content-center align-items-center p-4">
-    <div class="col-lg-4 col-md-6 text-center mt-4">
-  
-      <!-- Fine Circle Responsive Image -->
-      <div id="container" class="my-2">
-        <div id="dummy"></div>
-        <div id="element">
-          <img src="{{ site.author.image }}" alt="{{ site.title }}" class="circle-image wow animated zoomIn" data-wow-delay=".1s">
-        </div>
+<div id="p5-canvas-container"></div>
+
+<div class="row justify-content-center align-items-center p-4" style="position: relative; z-index: 1;">
+  <div class="col-lg-4 col-md-6 text-center mt-4">
+    <!-- Fine Circle Responsive Image -->
+    <div id="container" class="my-2">
+      <div id="dummy"></div>
+      <div id="element">
+        <img src="{{ site.author.image }}" alt="{{ site.title }}" class="circle-image wow animated zoomIn" data-wow-delay=".1s">
       </div>
-      <br><br>
-      <p class="text-muted wow animated slideInUp" data-wow-delay=".15s">{{ site.landing.description }}</p>
     </div>
+    <br><br>
+    <p class="text-muted wow animated slideInUp" data-wow-delay=".15s">{{ site.landing.description }}</p>
   </div>
+</div>
+
+<style>
+  #p5-canvas-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+  }
+</style>
+
+<script>
+  function setup() {
+    let myCanvas = createCanvas(windowWidth, windowHeight);
+    myCanvas.parent('p5-canvas-container');
+  }
+
+  function draw() {
+    clear();
+  }
+
+  function windowResized() {
+    resizeCanvas(windowWidth, windowHeight);
+  }
+</script>
