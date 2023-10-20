@@ -2,6 +2,7 @@
 title: Recapping my Stanford experience
 tags: [Stanford]
 description: A quarter-by-quarter recap of my Stanford highlights.
+comments: true
 ---
 
 ![Stanford Main Quad](/assets/posts/stanford-hoover-quad.jpg)

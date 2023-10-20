@@ -2,6 +2,7 @@
 title: How to integrate Siri with Notion for Free
 tags: [Productivity, Guide]
 description: Use your voice to add content to Notion!
+comments: true
 ---
 
 **[Notion](https://www.notion.so/)** is one of the most powerful productivity apps around, but it's missing a key feature: it doesn't natively integrate with Apple's automation app, **Shortcuts**.
@@ -121,4 +122,4 @@ Voila! Now, when you run the shortcut, it will prompt you for a task, then add i
 
 The best part: if you rename the shortcut to something like "Add A Task," then you can run this shortcut with a simple voice command by saying, **"Hey Siri, add a task."**
 
-*Special thanks to [this guide](https://difficult-walker-d07.notion.site/Quick-add-tasks-to-Notion-0ba8167052d740878ca857080836749e) for inspiring me.*
+*Special thanks to [this guide](https://difficult-walker-d07.notion.site/Quick-add-tasks-to-Notion-0ba8167052d740878ca857080836749e) for the inspiration.*

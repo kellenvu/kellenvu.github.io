@@ -2,6 +2,7 @@
 title: 11 Chrome extensions to check out
 tags: [Productivity]
 description: A list of my favorite Chrome extensions.
+comments: true
 ---
 
 {% include elements/figure.html image="https://cdn.pixabay.com/photo/2015/05/19/07/45/browser-773216_1280.jpg" caption="Source: Pixabay" %}
