@@ -26,16 +26,100 @@
 </style>
 
 <script>
+  let neurons = [];
+  let totalNeurons = 100;
+  let theme = 'light';
+
   function setup() {
     let myCanvas = createCanvas(windowWidth, windowHeight);
     myCanvas.parent('p5-canvas-container');
+
+    for (let i = 0; i < totalNeurons; i++) {
+      neurons.push(new Neuron(random(width), random(height)));
+    }
   }
 
   function draw() {
-    clear();
+    theme = document.documentElement.getAttribute('data-theme'); // Retrieves the current theme
+
+    if (theme === 'dark') {
+      background(24, 28, 28); // Dark theme background
+      stroke(45); // Dark theme neurons/synapses color
+      fill(45); // Dark theme fill color
+    } else {
+      background(255, 255, 255); // Light theme background
+      stroke(230); // Light theme neurons/synapses color
+      fill(230); // Light theme fill color
+    }
+
+    for (let neuron of neurons) {
+      neuron.update();
+      neuron.display();
+    }
+
+    for (let i = 0; i < neurons.length; i++) {
+      for (let j = i + 1; j < neurons.length; j++) {
+        let distance = p5.Vector.dist(neurons[i].position, neurons[j].position);
+        if (distance < 200) {
+          let alpha = map(distance, 0, 100, 255, 0); // This controls the transparency based on distance
+          if (theme === 'dark') {
+            stroke(45, alpha); // Dark theme line color with transparency
+          } else {
+            stroke(230, alpha); // Light theme line color with transparency
+          }
+          line(neurons[i].position.x, neurons[i].position.y, neurons[j].position.x, neurons[j].position.y);
+        }
+      }
+    }
   }
 
   function windowResized() {
     resizeCanvas(windowWidth, windowHeight);
   }
+
+  class Neuron {
+    constructor(x, y) {
+      this.position = createVector(x, y);
+      this.radius = random(5, 10);
+      this.velocity = createVector(random(-0.5, 0.5), random(-0.5, 0.5));
+      this.originalSpeed = this.velocity.mag();
+    }
+
+    update() {
+      this.position.add(this.velocity);
+
+      if (this.position.x < 0 || this.position.x > width) {
+        this.velocity.x *= -1;
+      }
+      if (this.position.y < 0 || this.position.y > height) {
+        this.velocity.y *= -1;
+      }
+
+      // Interaction with mouse
+      let mousePosition = createVector(mouseX, mouseY);
+      let distanceVector = p5.Vector.sub(this.position, mousePosition);
+      let distance = distanceVector.mag();
+      let maxDistance = 100; // Maximum distance to affect the neuron
+
+      if (distance < maxDistance) {
+        let force = distanceVector.copy().normalize();
+        let strength = (maxDistance - distance) / (maxDistance * 2);
+        force.mult(strength);
+        this.velocity.add(force);
+      }
+
+      // Apply friction if the current speed is greater than the original speed
+      if (this.velocity.mag() > this.originalSpeed) {
+        this.velocity.mult(0.98);
+      }
+
+      this.velocity.limit(3);
+    }
+
+    display() {
+      noStroke();
+      ellipse(this.position.x, this.position.y, this.radius * 2);
+    }
+  }
+
 </script>
