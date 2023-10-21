@@ -37,7 +37,7 @@ Check out some of my professional and creative projects below! 🎨
     {% endfor %}
   
     <!-- Local Projects -->
-    {% for project in site.projects %}
+    {% for project in site.projects reversed %}
   
       {%- assign project_type  = "local" -%}
       {%- assign project_id    = project.name | slugify -%}
