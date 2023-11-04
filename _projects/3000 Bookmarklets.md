@@ -45,7 +45,7 @@ Remove GitHub Inline Comments
 
 ---
 
-## [Extract YouTube Transcript](javascript:var%20elements%3Ddocument.querySelectorAll(%22yt-formatted-string.segment-text.style-scope.ytd-transcript-segment-renderer%22)%2Ctranscript%3D%22%22%3Belements.forEach(function(a)%7Btranscript%2B%3Da.textContent%2B%22%20%22%7D)%3Btranscript%3Dtranscript.replace(%2F%5Cn%2Fg%2C%22%20%22).trim()%3Bvar%20newWindow%3Dwindow.open(%22%22%2C%22_blank%22)%3BnewWindow.document.write(%22%3Chtml%3E%3Chead%3E%3Ctitle%3EYouTube%20Transcript%3C%2Ftitle%3E%3C%2Fhead%3E%3Cbody%3E%22)%3BnewWindow.document.write('%3Ctextarea%20style%3D%22width%3A100%25%3Bheight%3A100%25%3B%22%20readonly%3E')%3BnewWindow.document.write(transcript)%3BnewWindow.document.write(%22%3C%2Ftextarea%3E%22)%3BnewWindow.document.write(%22%3C%2Fbody%3E%3C%2Fhtml%3E%22)%3Bvoid+0)
+## [Extract YouTube Transcript](javascript:var%20elements%3Ddocument.querySelectorAll(%22yt-formatted-string.segment-text.style-scope.ytd-transcript-segment-renderer%22)%2Ctranscript%3D%22%22%3Belements.forEach(function(a)%7Btranscript%2B%3Da.textContent%2B%22%20%22%7D)%3Btranscript%3Dtranscript.replace(%2F%5Cn%2Fg%2C%22%20%22).trim()%3Bvar%20newWindow%3Dwindow.open(%22%22%2C%22_blank%22)%3BnewWindow.document.write(%22%3Chtml%3E%3Chead%3E%3Ctitle%3EYouTube%20Transcript%3C%2Ftitle%3E%3C%2Fhead%3E%3Cbody%3E%22)%3BnewWindow.document.write('%3Cdiv%20style%3D%22white-space%3A%20pre-wrap%3B%22%3E')%3BnewWindow.document.write(transcript)%3BnewWindow.document.write(%22%3C%2Fdiv%3E%22)%3BnewWindow.document.write(%22%3C%2Fbody%3E%3C%2Fhtml%3E%22)%3BnewWindow.document.close()%3Bvoid+0)
 
 (Drag this link to your bookmarks bar)
 
