@@ -13,6 +13,7 @@ Bookmarklets are simple pieces of JavaScript code stored as bookmarks in your br
 Compute Gradescope Raw Score
 Count Google Calendar Hours
 Extract YouTube Transcript
+Hide Retweets
 Remove GitHub Inline Comments
 {% endcapture %}
 {% include elements/list.html title="Table of Contents" type="toc" %}
@@ -57,6 +58,19 @@ Remove GitHub Inline Comments
 3. Click on this bookmarklet in your bookmarks bar.
 
 ![Transcript](/assets/projects/bookmarklet-youtube-transcript.png)
+
+---
+
+## [Hide Retweets](javascript:function%20hideRetweetDivs()%7Bvar%20b%3Ddocument.querySelectorAll(%22div%22)%3BArray.from(b).filter(function(a)%7Breturn%20a.textContent.includes(%22reposted%22)%7D).forEach(function(a)%7Bfor(%3Ba%26%26a.dataset%26%26%22cellInnerDiv%22!%3D%3Da.dataset.testid%3B)a%3Da.parentElement%3Ba%26%26(a.style.display%3D%22none%22)%7D)%7DsetInterval(hideRetweetDivs%2C1E3)%3Bvoid+0)
+
+(Drag this link to your bookmarks bar)
+
+**Purpose**: When viewing a Twitter feed (either your own feed or a user's timeline), this bookmarklet hides all of the reposts.
+
+**Usage**  
+1. Go to your [Twitter home feed](https://twitter.com/home) or a user's profile.
+2. Click on this bookmarklet in your bookmarks bar.
+3. Any tweets that were reposted are now hidden (you might see them flash on screen for a bit before they disappear).
 
 ---
 
