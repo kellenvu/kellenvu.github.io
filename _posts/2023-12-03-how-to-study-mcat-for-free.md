@@ -1,11 +1,22 @@
 ---
 title: How to study for the MCAT with only free materials
-tags: [Medicine, Guide]
+tags: [Med, Guide]
 description: Crush the MCAT without crushing your budget.
 comments: true
 ---
 
+![Anki](/assets/posts/anki.png)
+
 I took the test on Jan 15, 2022, and I scored a **524 (132/131/130/131)**. I remember when I first began studying, I felt really overwhelmed. I didn't know where to start, and reading through the online forums, it seemed like dishing out some cash for study materials was unavoidable. But I decided to take an unconventional approach and only use **free** materials during my studying (no UWorld, no textbooks, nada). Ultimately, it paid off! Now I want to share how I was able to achieve this score on a budget.
+
+{% capture list_items %}
+Overview
+Timeline
+Guide
+Conclusion
+Materials
+{% endcapture %}
+{% include elements/list.html title="Table of Contents" type="toc" %}
 
 ## Overview
 
