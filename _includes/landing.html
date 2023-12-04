@@ -27,11 +27,13 @@
 
 <script>
   let neurons = [];
-  let neuronDensity = 0.0001; // Number of neurons per square pixel, adjust as needed
+  let neuronDensity = 0.0001; // Number of neurons per square pixel
   let theme = 'light';
 
   function setup() {
+
     let myCanvas = createCanvas(windowWidth, windowHeight);
+
     myCanvas.parent('p5-canvas-container');
 
     let area = width * height;
@@ -43,16 +45,16 @@
   }
 
   function draw() {
-    theme = document.documentElement.getAttribute('data-theme'); // Retrieves the current theme
+    theme = document.documentElement.getAttribute('data-theme');
 
     if (theme === 'dark') {
-      background(24, 28, 28); // Dark theme background
-      stroke(45); // Dark theme neurons/synapses color
-      fill(45); // Dark theme fill color
+      background(24, 28, 28);
+      stroke(35);
+      fill(35);
     } else {
-      background(255, 255, 255); // Light theme background
-      stroke(230); // Light theme neurons/synapses color
-      fill(230); // Light theme fill color
+      background(255, 255, 255);
+      stroke(245);
+      fill(245);
     }
 
     for (let neuron of neurons) {
@@ -62,15 +64,20 @@
 
     for (let i = 0; i < neurons.length; i++) {
       for (let j = i + 1; j < neurons.length; j++) {
+
         let distance = p5.Vector.dist(neurons[i].position, neurons[j].position);
+
         if (distance < 200) {
-          let alpha = map(distance, 0, 100, 255, 0); // This controls the transparency based on distance
+          let alpha = map(distance, 0, 100, 255, 0);
+
           if (theme === 'dark') {
-            stroke(45, alpha); // Dark theme line color with transparency
+            stroke(35, alpha);
           } else {
-            stroke(230, alpha); // Light theme line color with transparency
+            stroke(245, alpha);
           }
+
           strokeWeight(2);
+
           line(neurons[i].position.x, neurons[i].position.y, neurons[j].position.x, neurons[j].position.y);
         }
       }
