@@ -70,11 +70,11 @@ This description has the situation and task, but lacks the action and result. Le
 
 > Experience: Summer Internship Perrigo Pharmaceuticals
 >
-> In the technical operations department of Perrigo Pharmaceuticals, I worked on the production of medications. One of my tasks was to refine the manufacturing procedures for medicinal tablets. After identifying a bottleneck in our packaging operations, I wrote and presented a whitepaper to optimize our packaging process by 15% through third-party vendors. Ultimately, my proposal was successfully approved with a budget of $100k. This experience reaffirmed my interest in integrating business and pharmacology to develop interventions for conditions like diabetes–not only developing therapies but also bringing them to market to maximize patient impact.
+> In the technical operations department of Perrigo Pharmaceuticals, I worked on the production of medications. One of my tasks was to refine the manufacturing procedures for medicinal tablets. After identifying a bottleneck in our packaging operations, I wrote and presented a proposal to optimize our packaging process by 15% through third-party vendors. Ultimately, my proposal was successfully approved with a budget of $100k. This experience reaffirmed my interest in integrating business and pharmacology to develop interventions for conditions like diabetes–not only developing therapies but also bringing them to market to maximize patient impact.
 
 How did I make it more interesting?
 
-1. I described the specific action (whitepaper) that I took to address the task.
+1. I described the specific action (proposal) that I took to address the task.
 
 1. I described the result with metrics (15% and $100k).
 
