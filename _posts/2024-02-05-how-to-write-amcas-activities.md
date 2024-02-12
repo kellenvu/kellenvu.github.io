@@ -1,5 +1,5 @@
 ---
-title: My formula for writing the AMCAS Activities section
+title: My formula for writing an interesting AMCAS Activities section
 tags: [Med, Guide]
 description: With examples and free resources.
 comments: true
