@@ -159,7 +159,7 @@ Again, this description struggles with a **vague insight** ("I learned organizat
 
 > Experience: Undergraduate Research Mentorship Program Supervisor
 >
-> URMP is a program that matches 30+ mentors with undergraduates who are new to research. As the program supervisor, I create survey forms, generate mentor-mentee pairings, and mentor two students myself! Through fostering dozens of pairings, I noticed that the mentees who consistently thrive are the ones who have a clear idea of their goals and what opportunities they are seeking, regardless of which mentor they are paired with. With this realization, I decided to begin hosting workshops for mentees about how to leverage mentorship effectively. These pre-mentorship workshops have received significant positive feedback.
+> URMP is a program that matches 30+ mentors with undergraduates who are new to research. As the program supervisor, I create survey forms, generate mentor-mentee pairings, and mentor two students myself! Through fostering dozens of pairings, I noticed that the mentees who consistently thrive are the ones who have a clear idea of their goals and what opportunities they are seeking, regardless of which mentor they are paired with. With this realization, I began hosting workshops for mentees about how to leverage mentorship effectively. These pre-mentorship workshops have received significant positive feedback.
 
 How did I make it more interesting?
 
