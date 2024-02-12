@@ -5,7 +5,7 @@ description: Learn about the STAR formula and the Although Principle.
 comments: true
 ---
 
-![Person writing](/assets/posts/writing-amcas-activities.jpeg)
+{% include elements/figure.html image="https://cdn.pixabay.com/photo/2015/01/08/18/26/man-593333_1280.jpg" caption="Source: Pixabay" %}
 
 Continuing my series on applying to medical school, today we're talking about the AMCAS **Work and Activities** section! I will leave the basics (requirements, character limits, etc.) to the [official sources](https://students-residents.aamc.org/how-apply-medical-school-amcas/section-5-amcas-application-work-and-activities)--instead, this article discusses the **writing strategies** that I used to get interviews at schools like Penn, UCSF, Mayo, Cornell, and NYU.
 
