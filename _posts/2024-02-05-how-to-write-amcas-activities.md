@@ -1,7 +1,7 @@
 ---
 title: My formula for writing an interesting AMCAS Activities section
 tags: [Med, Guide]
-description: With examples and free resources.
+description: Learn about the STAR formula and the Although Principle.
 comments: true
 ---
 
