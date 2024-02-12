@@ -161,13 +161,13 @@ Again, this description struggles with a **vague insight** ("I learned organizat
 
 > Experience: Undergraduate Research Mentorship Program Supervisor
 >
-> URMP is a program that matches 30+ mentors with undergraduates who are new to research. As the program supervisor, I create survey forms, generate mentor-mentee pairings, and mentor two students myself! Through fostering dozens of pairings, I noticed that the mentees who consistently thrive are the ones who have a clear idea of their goals from the start, regardless of which mentor they are paired with. With this realization, I began hosting workshops for mentees about how to leverage mentorship effectively. These pre-mentorship workshops have received significant positive feedback.
+> URMP is a program that matches 30+ mentors with undergraduates who are new to research. As the program supervisor, I create survey forms, generate mentor-mentee pairings, and mentor two students myself! Through fostering dozens of pairings, I noticed that the mentees who consistently thrived were the ones who had a clear idea of their goals from the start, regardless of which mentor they were paired with. With this realization, I began hosting workshops for mentees about how to leverage mentorship effectively. These pre-mentorship workshops have received significant positive feedback.
 
 How did I make it more interesting?
 
 1. I condensed the organization description into one sentence, to make more room for my own contributions.
 
-1. I demonstrated an insight that abides by the Although Principle: "**Although** you might expect the success of a mentor pairing to depend on the quality of the mentor, **actually** it depends more on the mentee's mindset" (a hot take, but that's why it's interesting!).
+1. I demonstrated an insight that abides by the Although Principle: "**Although** you might expect the success of a mentor pairing to depend on the quality of the mentor, **actually** it depends more on the mentee's mindset."
 
 1. I demonstrated initiative by applying this insight to improve the program (pre-mentorship workshops).
 
