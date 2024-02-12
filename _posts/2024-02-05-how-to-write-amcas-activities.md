@@ -197,6 +197,6 @@ Remember, ambitions like these work best if the **overall application narrative*
 
 1. **Exceptions to the formula.** These formulas don't work for all types of activities. For honors, awards, recognitions, publications, posters, and presentations, a simple bulleted list would suffice, especially if you're short on space. For **most meaningful experience** descriptions, you can try adapting the formulas for the longer character limit--but I will discuss most meaningful experiences in more detail in a future post!
 
-1. **How hot should your takes be?** 🔥 This is the hardest part of using the Although Principle. You want your takes to be hot enough to be interesting, but still lukewarm enough that readers would agree with you. I would advise discussing with your advisors to make sure your takes are at the right temperature.
+1. **How hot should your takes be?** 🔥 This is the hardest part of using the Although Principle. You want your takes to be hot enough to be interesting, but still lukewarm enough that readers would agree with you. I would suggest discussing with your advisors to make sure your takes are at the right temperature.
 
 1. **How ambitious should your ambitions be?** This is also a balancing act: you want to sound as ambitious as possible to impress schools, without sounding naive. Throughout my cycle, I learned to lean toward the side of **more ambitious**. Just do your research, and make sure that you can back up your goals and why you're capable if you're asked in an interview.
