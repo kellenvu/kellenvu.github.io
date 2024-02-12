@@ -28,7 +28,7 @@ I would also recommend **writing the activities *after* the personal statement**
 
 1. Starting with the personal statement lets you focus on crafting your **overall application narrative**. Once the narrative is defined, you can continue to reinforce this narrative while writing your activities.
 
-1. Starting with the personal statement encourages you to use your **most meaningful anecdotes** in the statement (where they will arguably have more impact). Then you can come up with different anecdotes for the activities, to avoid redundancy.
+1. Starting with the personal statement encourages you to use your **most compelling anecdotes** in the statement (where they will arguably have more impact). Then you can come up with different anecdotes for the activities, to avoid redundancy.
 
 ## Organization
 
