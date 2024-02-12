@@ -48,7 +48,7 @@ For each 700-character activity description, I used one of two templates: **STAR
 
 #### STAR
 
-A **Situation Task Action Result (STAR) description** (based on the [Amazon STAR method](https://www.amazon.jobs/en/landing_pages/in-person-interview)) highlights your problem-solving and initiative. It works best for activities where you saw a problem, came up with a solution, and executed it with **quantifiable** results. In general, if you can think of a way to frame an activity as a STAR, then you should use a STAR description.
+A **Situation Task Action Result (STAR) description** (based on the [Amazon STAR method](https://www.amazon.jobs/en/landing_pages/in-person-interview)) highlights your initiative and impact. It works best for activities where you saw a problem, came up with a solution, and executed it with **quantifiable** results. In general, if you can think of a way to frame an activity as a STAR, then you should use a STAR description.
 
 Here is the formula:
 
@@ -70,7 +70,7 @@ This description has the situation and task, but lacks the action and result. Le
 
 > Experience: Summer Internship Perrigo Pharmaceuticals
 >
-> In the technical operations department of Perrigo Pharmaceuticals, I worked on the production of medications. One of my tasks was to refine the manufacturing procedures for medicinal tablets. After identifying a bottleneck in our packaging operations, I wrote and presented a proposal to optimize our packaging process by 15% through third-party vendors. Ultimately, my proposal was successfully approved with a budget of $100k. This experience reaffirmed my interest in integrating business and pharmacology to develop interventions for conditions like diabetes–not only developing therapies but also bringing them to market to maximize patient impact.
+> In the technical operations department of Perrigo Pharmaceuticals, I worked on the production of medications. One of my tasks was to refine the manufacturing procedures for medicinal tablets. After identifying a bottleneck in our packaging operations, I wrote a proposal to optimize our packaging process through third-party vendors. Ultimately, my proposal was successfully approved with a budget of $100k, leading to a 15% increase in manufacturing efficiency. This experience reaffirmed my interest in integrating business and pharmacology to develop interventions for conditions like diabetes–not only developing therapies but also bringing them to market to maximize patient impact.
 
 How did I make it more interesting?
 
