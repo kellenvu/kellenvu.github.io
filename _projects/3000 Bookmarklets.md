@@ -7,7 +7,7 @@ description: A collection of my custom bookmarklets.
 
 # Bookmarklets
 
-Bookmarklets are simple pieces of JavaScript code stored as bookmarks in your browser. They provide additional functionality to a page by manipulating its content or behavior. By clicking on a bookmarklet while on a specific web page, you can trigger the contained script to perform certain actions. Here, you'll find some custom bookmarklets that I've written to make my life a little easier. :smile:
+Bookmarklets are simple pieces of JavaScript code stored as bookmarks in your browser. They provide additional functionality to a page by manipulating its content or behavior. By clicking on a bookmarklet while on a specific web page, you can trigger the contained script to perform certain actions. Here, you'll find some custom bookmarklets that I've written to make my life a little easier. 🙂
 
 {% capture list_items %}
 Compute Gradescope Raw Score
@@ -24,9 +24,8 @@ Remove GitHub Inline Comments
 
 **Purpose**: Compute your raw total score on Gradescope.
 
-**Usage**  
 1. Open your Gradescope dashboard, where you can you see your assignments and their scores.
-2. Click on this bookmarklet in your bookmarks bar.
+1. Click on this bookmarklet in your bookmarks bar.
 
 ![GitHub](/assets/projects/bookmarklet-gradescope.png)
 
@@ -38,9 +37,8 @@ Remove GitHub Inline Comments
 
 **Purpose**: Compute the total hours of events that are displayed in a Google Calendar search. Useful for if you need to, say, add up your total hours doing a specific activity.
 
-**Usage**  
 1. Open Google Calendar and search for your desired events.
-2. Click on this bookmarklet in your bookmarks bar.
+1. Click on this bookmarklet in your bookmarks bar.
 
 ![Calendar](/assets/projects/bookmarklet-calendar.png)
 
@@ -52,10 +50,9 @@ Remove GitHub Inline Comments
 
 **Purpose**: Extract the full transcript from a YouTube video as plain text. Makes it easier to copy/paste the transcript without the timestamps getting in the way.
 
-**Usage**  
 1. Navigate to a YouTube video.
-2. Open the video's transcript.
-3. Click on this bookmarklet in your bookmarks bar.
+1. Open the video's transcript.
+1. Click on this bookmarklet in your bookmarks bar.
 
 ![Transcript](/assets/projects/bookmarklet-youtube-transcript.png)
 
@@ -67,10 +64,9 @@ Remove GitHub Inline Comments
 
 **Purpose**: When viewing a Twitter feed (either your own feed or a user's timeline), this bookmarklet hides all of the reposts.
 
-**Usage**  
 1. Go to your [Twitter home feed](https://twitter.com/home) or a user's profile.
-2. Click on this bookmarklet in your bookmarks bar.
-3. Any tweets that were reposted are now hidden (you might see them flash on screen for a bit before they disappear).
+1. Click on this bookmarklet in your bookmarks bar.
+1. Any tweets that were reposted are now hidden (you might see them flash on screen for a bit before they disappear).
 
 ---
 
@@ -80,9 +76,8 @@ Remove GitHub Inline Comments
 
 **Purpose**: Remove the inline comments on a GitHub PR code page. Makes it easier to copy/paste the code without the comments getting in the way.
 
-**Usage**  
 1. Open a GitHub PR that has inline comments.
-2. Go to the `Files changed` tab.
-3. Click on this bookmarklet in your bookmarks bar.
+1. Go to the `Files changed` tab.
+1. Click on this bookmarklet in your bookmarks bar.
 
 ![GitHub](/assets/projects/bookmarklet-github.png)

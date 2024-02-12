@@ -1,5 +1,5 @@
 ---
-title: How to integrate Siri with Notion for Free
+title: How to integrate Siri with Notion for free
 tags: [Productivity, Guide]
 description: Use your voice to add content to Notion.
 comments: true

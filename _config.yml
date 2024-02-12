@@ -19,6 +19,7 @@ plugins:
   - jemoji
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-octicons
 
 
 ### Navbar Settings ###

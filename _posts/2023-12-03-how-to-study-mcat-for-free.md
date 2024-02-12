@@ -43,7 +43,7 @@ Here are some other general principles that I stuck to while studying.
 
 This was my general timeline, to give you an idea of my experience. I began studying during my sophomore year of college, and took the test in my junior year. I was taking full-time classes throughout.
 
-**Jan 2021**: This is when I began lightly studying. At this point, I was only doing Anki—no practice questions, no deep dives, just flashcards. As a baseline, I took a Blueprint half-length diagnostic, and scored a **509 (125/129/125/130)** (but if we’re being honest, I definitely cheated a little during this diagnostic so that’s probably an overestimate).
+**Jan 2021**: This is when I began lightly studying. At this point, I was only doing Anki—no practice questions, no deep dives, just flashcards. As a baseline, I took a Blueprint half-length diagnostic, and scored a **509 (125/129/125/130)** (but if we’re being honest, I definitely cheated during this diagnostic so that’s an overestimate).
 
 **Aug 2021**: This is when I sat down and came up with a serious plan. I made a schedule for taking all of my FLs (approximately two per month). I went through the list of MCAT topics and evaluated which ones were high priority for me. I began using free “question a day” websites for practice questions. I was still doing Anki every day. Around this time, I took another Blueprint diagnostic, and scored a **514 (129/128/128/129)**.
 
@@ -55,7 +55,7 @@ This was my general timeline, to give you an idea of my experience. I began stud
 
 If I could go back in time to when I first started studying, here's the step-by-step guide I would give myself.
 
-### Getting Started
+#### Getting Started
 
 1. Take a low-stress diagnostic test, like the free half-length diagnostic from [Blueprint](https://blueprintprep.com/mcat/free-resources/free-mcat-practice-bundle). This will give you an idea of what you're studying for, and also what you need to work on.
 
@@ -67,7 +67,7 @@ If I could go back in time to when I first started studying, here's the step-by-
 
 1. Download Anki.
 
-### Anki
+#### Anki
 
 Anki is a free flashcard program that uses an algorithm (spaced repetition) to show you high-priority cards. Since Anki comprised the bulk of my studying, here's a guide on how I used it.
 
@@ -89,7 +89,7 @@ Throughout my studying, I followed two simple rules: **(1) if it's in my Anki de
 
 In fact, while I was studying, I didn't really take notes—I only made flashcards. Notes are static; you write them down once, and you may or may not remember them. But Anki forces you to memorize your flashcards. The only exceptions for me were [organ systems](https://www.khanacademy.org/test-prep/mcat/organ-systems) and [biochemical pathways](https://aklectures.com/subject/biochemistry)—these are so complicated that it's worthwhile to have some clean notes to refer to.
 
-### Grind Time
+#### Grind Time
 
 When you're ready to pick up the pace (~1.5 months away from test date), your main priority should be practice tests. Here is a guide to making the most of them.
 
@@ -103,7 +103,7 @@ When you're ready to pick up the pace (~1.5 months away from test date), your ma
 
 ## Conclusion
 
-My MCAT journey proves that with the right mindset and resources, you can achieve your target score without spending a fortune. By focusing on effective strategies like Anki flashcards, free practice materials, and learning from every mistake, I turned what seemed like an overwhelming challenge into a manageable and successful endeavor. Remember, it's not about how much you spend, but how smartly you utilize what's available. Here’s to your success on the MCAT journey!
+My MCAT journey proves that with the right mindset and resources, you can achieve your target score without spending a fortune. By focusing on effective strategies like Anki flashcards, free practice materials, and learning from every mistake, I turned what seemed like an overwhelming challenge into something much more manageable. Remember, it's not about how much you spend, but how smartly you utilize what's available. Good luck on your MCAT journey!
 
 ## Materials
 
