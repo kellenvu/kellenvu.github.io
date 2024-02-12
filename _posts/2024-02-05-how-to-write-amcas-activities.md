@@ -36,7 +36,7 @@ I drafted my activites in a **Google Sheet**. You can make a copy of the templat
 
 ## Getting Started
 
-Start by reading through a bunch of [examples online](https://www.google.com/search?q=example+amcas+activities&sca_esv=00b1959cab87582d&sxsrf=ACQVn084TdmBc8Or6pgnCiUwB729NiLXwg%3A1707209317413&ei=ZfLBZdLgGNi7kPIPp9e4sAo&ved=0ahUKEwiSp6-nqpaEAxXYHUQIHacrDqYQ4dUDCBA&uact=5&oq=example+amcas+activities&gs_lp=Egxnd3Mtd2l6LXNlcnAiGGV4YW1wbGUgYW1jYXMgYWN0aXZpdGllczIGEAAYFhgeMgYQABgWGB4yCxAAGIAEGIoFGIYDMgsQABiABBiKBRiGAzILEAAYgAQYigUYhgNIxAlQwAFYjglwAXgBkAEAmAFaoAG5BqoBAjEwuAEDyAEA-AEBwgIHECMYsAMYJ8ICChAAGEcY1gQYsAPCAgQQIxgnwgILEAAYgAQYigUYkQLiAwQYACBBiAYBkAYK&sclient=gws-wiz-serp). Notice which activities catch your attention, and which ones you skim over.
+Start by reading through a bunch of examples online. Notice which activities catch your attention, and which ones you skim over.
 
 The goal is to put yourself in the shoes of the **Tired Reader**--someone who has already read dozens of applications today. Because odds are, that's the kind of person who will be evaluating your application. 😪
 
