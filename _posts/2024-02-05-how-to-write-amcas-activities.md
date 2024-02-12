@@ -5,6 +5,8 @@ description: With examples and free resources.
 comments: true
 ---
 
+![Person writing](/assets/posts/writing-amcas-activities.jpeg)
+
 Continuing my series on applying to medical school, today we're talking about the AMCAS **Work and Activities** section! I will leave the basics (requirements, character limits, etc.) to the [official sources](https://students-residents.aamc.org/how-apply-medical-school-amcas/section-5-amcas-application-work-and-activities)--instead, this article discusses the **writing strategies** that I used to get interviews at schools like Penn, UCSF, Mayo, Cornell, and NYU.
 
 Disclaimer: The opinions expressed in this article are mine alone, based on my application experience.
