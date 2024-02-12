@@ -9,7 +9,7 @@ comments: true
 
 Continuing my series on applying to medical school, today we're talking about the AMCAS **Work and Activities** section! I will leave the basics (requirements, character limits, etc.) to the [official sources](https://students-residents.aamc.org/how-apply-medical-school-amcas/section-5-amcas-application-work-and-activities)--instead, this article discusses the **writing strategies** that I used to get interviews at schools like Penn, UCSF, Mayo, Cornell, and NYU.
 
-Disclaimer: At the time of writing, I am still in the middle of my application cycle. Therefore, this article contains thoughts from the perspective of a current applicant, reflecting on what I have learned through the application process thus far.
+Disclaimer: At the time of writing, I am still in the middle of my application cycle. Therefore, this article contains thoughts from the perspective of a current applicant, reflecting what I have learned through the application process thus far.
 
 {% capture list_items %}
 Timing
