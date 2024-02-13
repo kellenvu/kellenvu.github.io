@@ -1,5 +1,5 @@
 ---
-title: My formula for writing an interesting AMCAS Activities section
+title: My formula for writing a compelling AMCAS Activities section
 tags: [Med, Guide]
 description: Learn about the STAR formula and the Although Principle.
 comments: true
