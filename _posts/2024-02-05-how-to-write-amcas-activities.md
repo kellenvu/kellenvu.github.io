@@ -56,7 +56,7 @@ Here is the formula:
 - 1 sentence explaining the situation/task
 - 1 sentence explaining your action
 - 1 sentence explaining the result (ideally with metrics)
-- (Optional) 1 sentence explaining your insight/ambition (see [Insight](#insight))
+- (Optional) 1 sentence explaining an ambition/insight(see [Insight](#insight))
 
 Keep in mind that this template is just a guideline; you should adjust the number of sentences as needed to best convey your story.
 
@@ -111,7 +111,7 @@ How did I make it more interesting?
 An **insight description** highlights your critical thinking and nuance. If you can't frame an activity as a STAR, then use this formula instead:
 
 - ~2 sentences explaining the organization and your role (and optionally, your motivation)
-- ~3 sentences explaining your insight/ambition
+- ~3 sentences explaining an ambition/insight
 
 **What makes an interesting insight**? When it comes to writing insights, these are the most common pitfalls:
 
