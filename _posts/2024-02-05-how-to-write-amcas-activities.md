@@ -108,7 +108,7 @@ How did I make it more interesting?
 
 #### Insight
 
-An **insight description** highlights your critical thinking. If you can't frame an activity as a STAR, then use this formula instead:
+An **insight description** highlights your critical thinking and nuance. If you can't frame an activity as a STAR, then use this formula instead:
 
 - ~2 sentences explaining the organization and your role (and optionally, your motivation)
 - ~3 sentences explaining your insight/ambition
@@ -123,7 +123,7 @@ In order to write interesting insights, I came up with the **Although Principle*
 
 {% include alerts/info.html content="An insight is interesting iff it can be rephrased as, \"**Although [counterargument], *actually* [insight].**\"" %}
 
-In other words, you want your insight to have some degree of **hot take.** 🔥
+In other words, you want your insight to be **nuanced** and have some degree of **hot take.** 🔥
 
 Let's see this in action. Here's a clinical activity from [BeMo](https://bemoacademicconsulting.com/blog/amcas-work-activities-definitive-guide):
 
@@ -197,6 +197,6 @@ Remember, ambitions like these work best if the **overall application narrative*
 
 1. **Exceptions to the formula.** These formulas don't work for all types of activities. For honors, awards, recognitions, publications, posters, and presentations, a simple bulleted list would suffice, especially if you're short on space. For **most meaningful experience** descriptions, you can try adapting the formulas for the longer character limit--but I will discuss most meaningful experiences in more detail in a future post!
 
-1. **How hot should your takes be?** 🔥 This is the hardest part of using the Although Principle. You want your takes to be hot enough to be interesting, but not too hot that readers are repelled. That's why the best insights come from genuine experience--there's no substitute for the nuanced insights that come from getting your hands dirty and asking tough questions. If you're concerned, I would suggest discussing with your advisors to make sure your takes are at the right temperature.
+1. **How hot should your takes be?** 🔥 This is the hardest part of using the Although Principle. You want your takes to be hot enough to be interesting, but not too hot that readers are turned off. That's why the best insights come from genuine experience--there's no substitute for the nuanced insights that come from getting your hands dirty and asking tough questions. If you're concerned, I would suggest discussing with your advisors (especially physician advisors) to get their insights.
 
 1. **How ambitious should your ambitions be?** This is also a balancing act: you want to sound as ambitious as possible to impress readers, without sounding naive. Throughout my cycle, I learned to lean toward the side of **more ambitious**. Just do your research, and make sure that you can back up your goals and why you're capable if you're asked in an interview.
