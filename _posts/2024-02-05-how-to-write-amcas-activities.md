@@ -1,7 +1,7 @@
 ---
 title: My formula for writing a compelling AMCAS Activities section
 tags: [Med, Guide]
-description: Learn about the STAR formula and the Although Principle.
+description: It's all about impact and nuance.
 comments: true
 ---
 
