@@ -119,7 +119,7 @@ An **insight description** highlights your critical thinking and nuance. If you 
 
 In order to write interesting insights, I came up with the **Although Principle**. The Although Principle states:
 
-{% include alerts/info.html content="An insight is interesting iff it can be rephrased as, \"**Although [counterargument], *actually* [insight].**\"" %}
+{% include alerts/info.html content="An insight is interesting IFF it can be rephrased as, \"**Although [counterargument], *actually* [insight].**\"" %}
 
 In other words, you want your insight to be **nuanced** and have some degree of **hot take.** 🔥
 
