@@ -1,7 +1,7 @@
 ---
-title: My formula for writing a compelling AMCAS Activities section
+title: How to write a compelling AMCAS Activities section
 tags: [Med, Guide]
-description: It's all about impact and nuance.
+description: With templates and examples.
 comments: true
 ---
 
