@@ -11,7 +11,7 @@ open_new_tab        : false # Opens external URLs in new tab (works for posts, p
 landing:
   description: >-
                 Hi, thanks for stopping by! :wave:<br><br>
-                I'm a recent grad from Stanford and a software engineer at <a href="https://www.codex.health/">Codex Health</a>.
+                I'm a first-year medical student at <a href="https://weill.cornell.edu/">Weill Cornell Medicine</a>.
 
 
 ### Plugins ###

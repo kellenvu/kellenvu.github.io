@@ -1,33 +1,50 @@
-- title: Software Engineer | <a href="https://www.codex.health/">Codex Health</a>
+- title: Medical Student | <a href="https://weill.cornell.edu/">Weill Cornell Medicine</a>
   from: Jul 2023
   to: present
+  image: /assets/timeline/wcm.jpg
+  description: >-
+                <ul>
+                <li>Doing Anki cards</li>
+                </ul>
+
+- title: Software Engineer | <a href="https://www.codex.health/">Codex Health</a>
+  from: Jul 2023
+  to: Aug 2024
   image: /assets/timeline/codex.jpg
   description: >-
-                - Cloud engineering team<br>
-                - Developing AI-powered tools for virtual care, remote patient monitoring, and population health analytics<br>
+                <ul>
+                <li>Developed the backend for Allie, a remote patient monitoring app that tracks patient health metrics (e.g. blood pressure, glucose) in real time via Bluetooth monitors</li>
+                <li>Collaborated with nurses and physicians to develop Foresight, a clinician portal for viewing and analyzing remote patient monitoring data</li>
+                </ul>
 
 - title: Software Engineering Intern | <a href="https://www.meta.com/">Meta</a>
   from: Jun 2022
   to: Sep 2022
   image: /assets/timeline/meta.jpg
   description: >-
-                - Facebook iOS Notifications team<br>
-                - Redesigned the push notification interface for the Facebook app using SwiftUI and Objective-C<br>
-                - Increased the push notification want rate by 17% and overall push conversions by 4%
+                <ul>
+                <li>Facebook iOS Notifications team</li>
+                <li>Developed a new push notification interface for the Facebook app</li>
+                <li>Increased the push notification want rate by 17% and overall push conversions by 4%</li>
+                </ul>
 
 - title: Research Assistant | <a href="https://raymondlab.stanford.edu/">Raymond Lab</a>
   from: Jun 2020
   to: Jun 2023
   image: /assets/timeline/wu-tsai.jpg
   description: >-
-                - Investigated the neuroplasticity of eye movement control in mice, revealing similarities in plasticity mechanisms across species<br>
-                - Engineered a novel technique to evaluate cerebellar function in mice, informing potential therapies for cerebellar disorders
+                <ul>
+                <li>Demonstrated the existence of a functional oculomotor integrator (a brain circuit that refines gaze stability) in mice, revealing similarities in plasticity mechanisms across species</li>
+                <li>Engineered a novel behavioral training protocol that uses visual feedback to adaptively tune the performance of this circuit, informing potential therapies for cerebellar disorders</li>
+                </ul>
 
 - title: Student | <a href="https://www.stanford.edu/">Stanford University</a>
   from: Sep 2019
   to: Jun 2023
   image: /assets/timeline/stanford.jpg
   description: >-
-                - B.S. in Human Biology with Honors and Distinction (concentration in Computational Neuroscience)<br>
-                - Minor in Computer Science<br>
-                - Recipient of the <a href="https://humsci.stanford.edu/current-students/sterling-award-undergraduates">J.E. Wallace Sterling Award for Scholastic Achievement</a>
+                <ul>
+                <li>B.S. in Human Biology with Honors and Distinction (concentration in Computational Neuroscience)</li>
+                <li>Minor in Computer Science</li>
+                <li>Recipient of the <a href="https://humsci.stanford.edu/current-students/sterling-award-undergraduates">J.E. Wallace Sterling Award for Scholastic Achievement</a></li>
+                </ul>
