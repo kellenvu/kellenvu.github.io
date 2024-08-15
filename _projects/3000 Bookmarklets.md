@@ -1,6 +1,6 @@
 ---
 name: Bookmarklets
-tools: [Javascript]
+tools: [JavaScript]
 image: https://png.pngtree.com/png-vector/20190423/ourmid/pngtree-bookmark-icon-vector-illustration-in-filled-style-for-any-purpose-png-image_975418.jpg
 description: A collection of my custom bookmarklets.
 ---
