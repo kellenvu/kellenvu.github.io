@@ -19,7 +19,7 @@ Remove GitHub Inline Comments
 {% endcapture %}
 {% include elements/list.html title="Table of Contents" type="toc" %}
 
-## [Compute Gradescope Raw Score](javascript:var%20%24jscomp%3D%24jscomp%7C%7C%7B%7D%3B%24jscomp.scope%3D%7B%7D%3B%24jscomp.createTemplateTagFirstArg%3Dfunction(a)%7Breturn%20a.raw%3Da%7D%3B%24jscomp.createTemplateTagFirstArgWithRaw%3Dfunction(a%2Cb)%7Ba.raw%3Db%3Breturn%20a%7D%3B%24jscomp.arrayIteratorImpl%3Dfunction(a)%7Bvar%20b%3D0%3Breturn%20function()%7Breturn%20b%3Ca.length%3F%7Bdone%3A!1%2Cvalue%3Aa%5Bb%2B%2B%5D%7D%3A%7Bdone%3A!0%7D%7D%7D%3B%24jscomp.arrayIterator%3Dfunction(a)%7Breturn%7Bnext%3A%24jscomp.arrayIteratorImpl(a)%7D%7D%3B%24jscomp.makeIterator%3Dfunction(a)%7Bvar%20b%3D%22undefined%22!%3Dtypeof%20Symbol%26%26Symbol.iterator%26%26a%5BSymbol.iterator%5D%3Bif(b)return%20b.call(a)%3Bif(%22number%22%3D%3Dtypeof%20a.length)return%20%24jscomp.arrayIterator(a)%3Bthrow%20Error(String(a)%2B%22%20is%20not%20an%20iterable%20or%20ArrayLike%22)%3B%7D%3Bvar%20totalBeforeSlash%3D0%2CtotalAfterSlash%3D0%3Bdocument.querySelectorAll(%22.submissionStatus--score%22).forEach(function(a)%7Bvar%20b%3D%24jscomp.makeIterator(a.innerHTML.split(%22%20%2F%20%22))%3Ba%3Db.next().value%3Bb%3Db.next().value%3Ba%3DparseFloat(a)%3Bb%3DparseFloat(b)%3BtotalBeforeSlash%2B%3Da%3BtotalAfterSlash%2B%3Db%7D)%3Bvar%20percentage%3DtotalBeforeSlash%2FtotalAfterSlash*100%3Bpercentage%3DMath.round(100*percentage)%2F100%3Bvar%20alertMessage%3D%22The%20total%20is%20%22%2BtotalBeforeSlash%2B%22%20%2F%20%22%2BtotalAfterSlash%2B%22%20%3D%20%22%2Bpercentage%2B%22%25%22%3Balert(alertMessage)%3Bvoid+0)
+## [Compute Gradescope Raw Score](javascript:(function()%7B%2F*%0AAdds%20up%20all%20the%20individual%20assignments%20and%20tell%20you%20the%20total%20score.%0A*%2F%0A%0Alet%20totalBeforeSlash%20%3D%200%3B%0Alet%20totalAfterSlash%20%3D%200%3B%0A%0Adocument.querySelectorAll('.submissionStatus--score').forEach((elem)%20%3D%3E%20%7B%0A%0A%09let%20str%20%3D%20elem.innerHTML%3B%0A%20%20%20%20let%20%5BbeforeSlash%2C%20afterSlash%5D%20%3D%20str.split('%20%2F%20')%3B%0A%0A%20%20%20%20%2F%2F%20Convert%20the%20strings%20to%20numbers%0A%20%20%20%20let%20numBeforeSlash%20%3D%20parseFloat(beforeSlash)%3B%0A%20%20%20%20let%20numAfterSlash%20%3D%20parseFloat(afterSlash)%3B%0A%0A%20%20%20%20%2F%2F%20Add%20the%20numbers%20to%20the%20running%20totals%0A%20%20%20%20totalBeforeSlash%20%2B%3D%20numBeforeSlash%3B%0A%20%20%20%20totalAfterSlash%20%2B%3D%20numAfterSlash%3B%0A%7D)%3B%0A%0Alet%20percentage%20%3D%20(totalBeforeSlash%20%2F%20totalAfterSlash)%20*%20100%3B%0Apercentage%20%3D%20Math.round(percentage%20*%20100)%20%2F%20100%3B%20%2F%2F%20Rounding%20to%20two%20decimal%20points%0A%0Alet%20alertMessage%20%3D%20%60The%20total%20is%20%24%7BtotalBeforeSlash%7D%20%2F%20%24%7BtotalAfterSlash%7D%20%3D%20%24%7Bpercentage%7D%25%60%3B%0Aalert(alertMessage)%3B%7D)()%3B)
 
 (Drag this link to your bookmarks bar)
 
@@ -28,11 +28,11 @@ Remove GitHub Inline Comments
 1. Open your Gradescope dashboard, where you can you see your assignments and their scores.
 1. Click on this bookmarklet in your bookmarks bar.
 
-![GitHub](/assets/projects/bookmarklet-gradescope.png)
+![GitHub](/assets/projects/bookmarklet-gradescope.gif)
 
 ---
 
-## [Count Google Calendar Hours](javascript:var%20%24jscomp%3D%24jscomp%7C%7C%7B%7D%3B%24jscomp.scope%3D%7B%7D%3B%24jscomp.arrayIteratorImpl%3Dfunction(a)%7Bvar%20c%3D0%3Breturn%20function()%7Breturn%20c%3Ca.length%3F%7Bdone%3A!1%2Cvalue%3Aa%5Bc%2B%2B%5D%7D%3A%7Bdone%3A!0%7D%7D%7D%3B%24jscomp.arrayIterator%3Dfunction(a)%7Breturn%7Bnext%3A%24jscomp.arrayIteratorImpl(a)%7D%7D%3B%24jscomp.makeIterator%3Dfunction(a)%7Bvar%20c%3D%22undefined%22!%3Dtypeof%20Symbol%26%26Symbol.iterator%26%26a%5BSymbol.iterator%5D%3Bif(c)return%20c.call(a)%3Bif(%22number%22%3D%3Dtypeof%20a.length)return%20%24jscomp.arrayIterator(a)%3Bthrow%20Error(String(a)%2B%22%20is%20not%20an%20iterable%20or%20ArrayLike%22)%3B%7D%3Bvar%20reg%3D%2F(%5Cd%2B(%3A%5Cd%2B)%3F(am%7Cpm)%3F)%20%5Cu2013%20(%5Cd%2B(%3A%5Cd%2B)%3F(am%7Cpm))%2F%2Ctotal%3D0%3Bdocument.querySelectorAll(%22div%5Brole%3Dgridcell%5D%22).forEach(function(a)%7Ba%3Da.innerHTML%3Breg.test(a)%26%26(total%2B%3DdurationInHours(a))%7D)%3Balert(%22The%20total%20time%20on%20this%20search%20page%20is%20%22%2Btotal%2B%22%20hours!%22)%3Bfunction%20durationInHours(a)%7Ba%3Da.split(%22%20%5Cu2013%20%22)%3Bif(null%3D%3D%3Da%5B0%5D.match(%2Fam%7Cpm%2F))%7Bvar%20c%3Da%5B1%5D.match(%2Fam%7Cpm%2F)%3Ba%5B0%5D%2B%3Dc%5B0%5D%7Da%3Da.map(function(e)%7Bvar%20b%3De.match(%2F%5Cd%2B%3A%5Cd%2B%7C%5Cd%2B%2F)%5B0%5D%3Be%3De.match(%2Fam%7Cpm%2F)%5B0%5D%3Bvar%20d%3D%24jscomp.makeIterator(b.includes(%22%3A%22)%3Fb.split(%22%3A%22)%3A%5Bb%2C%2200%22%5D)%3Bb%3Dd.next().value%3Bd%3Dd.next().value%3Bb%3DparseInt(b)%3Bd%3DparseInt(d)%3B%22pm%22%3D%3D%3De%26%2612!%3D%3Db%26%26(b%2B%3D12)%3B%22am%22%3D%3D%3De%26%2612%3D%3D%3Db%26%26(b%3D0)%3Breturn%20b%2Bd%2F60%7D)%3Ba%3Da%5B1%5D-a%5B0%5D%3B0%3Ea%26%26(a%2B%3D24)%3Breturn%20a%7D%3Bvoid+0)
+## [Count Google Calendar Hours](javascript:(function()%7B%2F*%0ARun%20this%20bookmarklet%20on%20the%20%22search%22%20page%20in%20Google%20Calendar.%0A%0AIt%20will%20detect%20all%20the%20time%20ranges%20on%20the%20page%2C%20and%20add%20up%20the%20total%20hours.%0A*%2F%0A%0Alet%20reg%20%3D%20%2F(%5Cd%2B(%3A%5Cd%2B)%3F(am%7Cpm)%3F)%20%E2%80%93%20(%5Cd%2B(%3A%5Cd%2B)%3F(am%7Cpm))%2F%3B%0Avar%20total%20%3D%200%3B%0A%0Adocument.querySelectorAll('div%5Brole%3Dgridcell%5D').forEach(ele%20%3D%3E%20%7B%0A%09let%20str%20%3D%20ele.innerHTML%3B%0A%09if(reg.test(str))%20%7B%0A%09%09total%20%2B%3D%20durationInHours(str)%3B%0A%09%7D%0A%7D)%3B%0A%0Aalert('The%20total%20time%20on%20this%20search%20page%20is%20'%20%2B%20total%20%2B%20'%20hours!')%3B%0A%0Afunction%20durationInHours(timeRange)%20%7B%0A%0A%20%20%20%20let%20parts%20%3D%20timeRange.split('%20%E2%80%93%20')%3B%0A%20%20%20%20if(parts%5B0%5D.match(%2Fam%7Cpm%2F)%20%3D%3D%3D%20null)%20%7B%0A%20%20%20%20%20%20%20%20let%20period%20%3D%20parts%5B1%5D.match(%2Fam%7Cpm%2F)%3B%0A%20%20%20%20%20%20%20%20parts%5B0%5D%20%2B%3D%20period%5B0%5D%3B%0A%20%20%20%20%7D%0A%0A%20%20%20%20let%20times%20%3D%20parts.map(part%20%3D%3E%20%7B%0A%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20let%20timePart%20%3D%20part.match(%2F%5Cd%2B%3A%5Cd%2B%7C%5Cd%2B%2F)%5B0%5D%3B%20%0A%20%20%20%20%20%20%20%20let%20period%20%3D%20part.match(%2Fam%7Cpm%2F)%5B0%5D%3B%20%0A%0A%20%20%20%20%20%20%20%20let%20%5Bhour%2C%20minute%5D%20%3D%20timePart.includes('%3A')%20%3F%20timePart.split('%3A')%20%3A%20%5BtimePart%2C%20'00'%5D%3B%0A%20%20%20%20%20%20%20%20hour%20%3D%20parseInt(hour)%3B%0A%20%20%20%20%20%20%20%20minute%20%3D%20parseInt(minute)%3B%0A%0A%20%20%20%20%20%20%20%20if(period%20%3D%3D%3D%20'pm'%20%26%26%20hour%20!%3D%3D%2012)%20%7B%0A%20%20%20%20%20%20%20%20%20%20%20%20hour%20%2B%3D%2012%3B%0A%20%20%20%20%20%20%20%20%7D%0A%0A%20%20%20%20%20%20%20%20if(period%20%3D%3D%3D%20'am'%20%26%26%20hour%20%3D%3D%3D%2012)%20%7B%0A%20%20%20%20%20%20%20%20%20%20%20%20hour%20%3D%200%3B%0A%20%20%20%20%20%20%20%20%7D%0A%0A%20%20%20%20%20%20%20%20return%20hour%20%2B%20minute%20%2F%2060%3B%0A%20%20%20%20%7D)%3B%0A%0A%20%20%20%20let%20duration%20%3D%20times%5B1%5D%20-%20times%5B0%5D%3B%0A%20%20%20%20if(duration%20%3C%200)%20%7B%0A%20%20%20%20%20%20%20%20%2F%2F%20If%20the%20end%20time%20is%20before%20the%20start%20time%2C%20it%20means%20the%20time%20range%20crosses%20midnight.%0A%20%20%20%20%20%20%20%20%2F%2F%20Add%2024%20to%20the%20duration%20to%20correct%20this.%0A%20%20%20%20%20%20%20%20duration%20%2B%3D%2024%3B%0A%20%20%20%20%7D%0A%0A%20%20%20%20return%20duration%3B%0A%7D%7D)()%3B)
 
 (Drag this link to your bookmarks bar)
 
@@ -41,7 +41,7 @@ Remove GitHub Inline Comments
 1. Open Google Calendar and search for your desired events.
 1. Click on this bookmarklet in your bookmarks bar.
 
-![Calendar](/assets/projects/bookmarklet-calendar.png)
+![Calendar](/assets/projects/bookmarklet-gcal-hours.gif)
 
 ---
 
@@ -56,9 +56,11 @@ Remove GitHub Inline Comments
 1. Click on this bookmarklet in your bookmarks bar.
 1. Modify the settings as desired, then click OK.
 
+![Calendar](/assets/projects/bookmarklet-gcal-availability.gif)
+
 ---
 
-## [Get Panopto Transcript](javascript:(function()%7Bvar%20elements%20%3D%20document.querySelectorAll(%22div.event-text%3Espan%22)%2C%20transcript%20%3D%20%22%22%3B%0A%0Aelements.forEach((elem)%20%3D%3E%20%7B%0A%20%20%20%20transcript%20%2B%3D%20elem.innerHTML%20%2B%20%22%20%22%3B%0A%7D)%3B%0A%0Atranscript%20%3D%20transcript.replace(%2F%5Cn%2Fg%2C%20%22%20%22).trim()%3B%0Avar%20newWindow%20%3D%20window.open(%22%22%2C%20%22_blank%22)%3B%0AnewWindow.document.write(%22%3Chtml%3E%3Chead%3E%3Ctitle%3ETranscript%3C%2Ftitle%3E%3C%2Fhead%3E%3Cbody%3E%22)%3B%0AnewWindow.document.write('%3Cdivstyle%3D%22white-space%3Apre-wrap%3B%22%3E')%3B%0AnewWindow.document.write(transcript)%3B%0AnewWindow.document.write(%22%3C%2Fdiv%3E%22)%3B%0AnewWindow.document.write(%22%3C%2Fbody%3E%3C%2Fhtml%3E%22)%3B%0AnewWindow.document.close()%3B%7D)()%3B)
+## [Get Panopto Transcript](javascript:(function()%7B%2F**%0A%20*%20Go%20to%20a%20Panopto%20video.%0A%20*%20Click%20the%20%22Captions%22%20button.%0A%20*%20Run%20this%20bookmarklet.%0A%20*%20It%20will%20open%20a%20new%20tab%20with%20the%20transcript.%0A%20*%2F%0A%0Alet%20elements%20%3D%20document.querySelectorAll(%22div.event-text%3Espan%22)%3B%0Alet%20transcript%20%3D%20%22%22%3B%0A%0Aelements.forEach((elem)%20%3D%3E%20%7B%0A%20%20%20%20transcript%20%2B%3D%20elem.innerHTML%20%2B%20%22%20%22%3B%0A%7D)%3B%0A%0Atranscript%20%3D%20transcript.replace(%2F%5Cn%2Fg%2C%20%22%20%22).trim()%3B%0A%0Alet%20htmlContent%20%3D%20%60%0A%3Chtml%3E%0A%3Chead%3E%0A%20%20%20%20%3Ctitle%3ETranscript%3C%2Ftitle%3E%0A%3C%2Fhead%3E%0A%3Cbody%3E%0A%20%20%20%20%3Cdiv%20style%3D%22white-space%3A%20pre-wrap%3B%22%3E%24%7Btranscript%7D%3C%2Fdiv%3E%0A%3C%2Fbody%3E%0A%3C%2Fhtml%3E%60%3B%0A%0Alet%20blob%20%3D%20new%20Blob(%5BhtmlContent%5D%2C%20%7B%20type%3A%20'text%2Fhtml'%20%7D)%3B%0Alet%20url%20%3D%20URL.createObjectURL(blob)%3B%0Awindow.open(url%2C%20%22_blank%22)%3B%7D)()%3B)
 
 (Drag this link to your bookmarks bar)
 
@@ -68,9 +70,11 @@ Remove GitHub Inline Comments
 1. Open the video's Captions tab.
 1. Click on this bookmarklet in your bookmarks bar.
 
+![Panopto transcript](/assets/projects/bookmarklet-panopto-transcript.gif)
+
 ---
 
-## [Get YouTube Transcript](javascript:var%20elements%3Ddocument.querySelectorAll(%22yt-formatted-string.segment-text.style-scope.ytd-transcript-segment-renderer%22)%2Ctranscript%3D%22%22%3Belements.forEach(function(a)%7Btranscript%2B%3Da.textContent%2B%22%20%22%7D)%3Btranscript%3Dtranscript.replace(%2F%5Cn%2Fg%2C%22%20%22).trim()%3Bvar%20newWindow%3Dwindow.open(%22%22%2C%22_blank%22)%3BnewWindow.document.write(%22%3Chtml%3E%3Chead%3E%3Ctitle%3EYouTube%20Transcript%3C%2Ftitle%3E%3C%2Fhead%3E%3Cbody%3E%22)%3BnewWindow.document.write('%3Cdiv%20style%3D%22white-space%3A%20pre-wrap%3B%22%3E')%3BnewWindow.document.write(transcript)%3BnewWindow.document.write(%22%3C%2Fdiv%3E%22)%3BnewWindow.document.write(%22%3C%2Fbody%3E%3C%2Fhtml%3E%22)%3BnewWindow.document.close()%3Bvoid+0)
+## [Get YouTube Transcript](javascript:(function()%7B%2F**%0A%20*%20Go%20to%20a%20YouTube%20video.%0A%20*%20Click%20the%20%22Show%20transcript%22%20button.%0A%20*%20Run%20this%20bookmarklet.%0A%20*%20It%20will%20open%20a%20new%20tab%20with%20the%20transcript.%0A%20*%2F%0A%0Alet%20elements%20%3D%20document.querySelectorAll('yt-formatted-string.segment-text.style-scope.ytd-transcript-segment-renderer')%3B%0Alet%20transcript%20%3D%20%22%22%3B%0A%0Aelements.forEach((elem)%20%3D%3E%20%7B%0A%20%20%20%20transcript%20%2B%3D%20elem.innerHTML%20%2B%20%22%20%22%3B%0A%7D)%3B%0A%0Atranscript%20%3D%20transcript.replace(%2F%5Cn%2Fg%2C%20%22%20%22).trim()%3B%0A%0Alet%20htmlContent%20%3D%20%60%0A%3Chtml%3E%0A%3Chead%3E%0A%20%20%20%20%3Ctitle%3ETranscript%3C%2Ftitle%3E%0A%3C%2Fhead%3E%0A%3Cbody%3E%0A%20%20%20%20%3Cdiv%20style%3D%22white-space%3A%20pre-wrap%3B%22%3E%24%7Btranscript%7D%3C%2Fdiv%3E%0A%3C%2Fbody%3E%0A%3C%2Fhtml%3E%60%3B%0A%0Alet%20blob%20%3D%20new%20Blob(%5BhtmlContent%5D%2C%20%7B%20type%3A%20'text%2Fhtml'%20%7D)%3B%0Alet%20url%20%3D%20URL.createObjectURL(blob)%3B%0Awindow.open(url%2C%20%22_blank%22)%3B%7D)()%3B)
 
 (Drag this link to your bookmarks bar)
 
@@ -80,11 +84,11 @@ Remove GitHub Inline Comments
 1. Open the video's transcript.
 1. Click on this bookmarklet in your bookmarks bar.
 
-![Transcript](/assets/projects/bookmarklet-youtube-transcript.png)
+![YouTube transcript](/assets/projects/bookmarklet-youtube-transcript.gif)
 
 ---
 
-## [Hide Retweets](javascript:function%20hideRetweetDivs()%7Bvar%20b%3Ddocument.querySelectorAll(%22div%22)%3BArray.from(b).filter(function(a)%7Breturn%20a.textContent.includes(%22reposted%22)%7D).forEach(function(a)%7Bfor(%3Ba%26%26a.dataset%26%26%22cellInnerDiv%22!%3D%3Da.dataset.testid%3B)a%3Da.parentElement%3Ba%26%26(a.style.display%3D%22none%22)%7D)%7DsetInterval(hideRetweetDivs%2C1E3)%3Bvoid+0)
+## [Hide Retweets](javascript:(function()%7B%2F**%0A%20*%20Continuously%20checks%20the%20page%20for%20any%20reposted%20tweets%2C%20and%20hides%20them.%0A%20*%2F%0A%0Afunction%20hideRetweetDivs()%20%7B%0A%0A%20%20%20%20var%20elems%20%3D%20document.querySelectorAll('div%5Bdata-testid%3D%22cellInnerDiv%22%5D')%3B%0A%0A%20%20%20%20Array.from(elems).forEach((elem)%20%3D%3E%20%7B%0A%20%20%20%20%20%20%20%20if%20(elem.textContent.includes('reposted'))%20%7B%0A%20%20%20%20%20%20%20%20%20%20%20%20elem.style.display%20%3D%20'none'%3B%3B%0A%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%7D)%0A%7D%0A%0AsetInterval(hideRetweetDivs%2C%201E3)%3B%7D)()%3B)
 
 (Drag this link to your bookmarks bar)
 
@@ -94,16 +98,18 @@ Remove GitHub Inline Comments
 1. Click on this bookmarklet in your bookmarks bar.
 1. Any tweets that were reposted are now hidden (you might see them flash on screen for a bit before they disappear).
 
+![Hide retweets](/assets/projects/bookmarklet-hide-retweets.gif)
+
 ---
 
-## [Remove GitHub Inline Comments](javascript:for(var%20elements%3Ddocument.querySelectorAll(%22.inline-comments%22)%2Ci%3D0%3Bi%3Celements.length%3Bi%2B%2B)elements%5Bi%5D.parentNode.removeChild(elements%5Bi%5D)%3Bvoid+0)
+## [Remove GitHub Inline Comments](javascript:(function()%7B%2F**%0A%20*%20Run%20this%20bookmarklet%20on%20a%20GitHub%20code%20page.%20It%20will%20remove%20all%20of%20the%20inline%20comments%2C%20making%20it%20easier%20to%20copy%2Fpaste.%0A%20*%2F%0A%0Avar%20elements%20%3D%20document.querySelectorAll('.inline-comments')%3B%0Aelements.forEach((elem)%20%3D%3E%20%7B%0A%20%20%20%20elem.parentNode.removeChild(elem)%3B%0A%7D)%7D)()%3B)
 
 (Drag this link to your bookmarks bar)
 
-**Purpose**: Removes the inline comments on a GitHub PR code page. Makes it easier to copy/paste the code without the comments getting in the way.
+**Purpose**: Hides the inline comments on a GitHub PR code page. Makes it easier to copy/paste the code without the comments getting in the way. The comments will return when you refresh the page.
 
 1. Open a GitHub PR that has inline comments.
 1. Go to the `Files changed` tab.
 1. Click on this bookmarklet in your bookmarks bar.
 
-![GitHub](/assets/projects/bookmarklet-github.png)
+![GitHub](/assets/projects/bookmarklet-hide-github.gif)
