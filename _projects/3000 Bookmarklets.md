@@ -15,7 +15,7 @@ Count Google Calendar Hours
 Get YouTube Transcript
 Get Panopto Transcript
 Hide Retweets
-Remove GitHub Inline Comments
+Hide GitHub Inline Comments
 {% endcapture %}
 {% include elements/list.html title="Table of Contents" type="toc" %}
 
@@ -102,7 +102,7 @@ Remove GitHub Inline Comments
 
 ---
 
-## [Remove GitHub Inline Comments](javascript:(function()%7B%2F**%0A%20*%20Run%20this%20bookmarklet%20on%20a%20GitHub%20code%20page.%20It%20will%20remove%20all%20of%20the%20inline%20comments%2C%20making%20it%20easier%20to%20copy%2Fpaste.%0A%20*%2F%0A%0Avar%20elements%20%3D%20document.querySelectorAll('.inline-comments')%3B%0Aelements.forEach((elem)%20%3D%3E%20%7B%0A%20%20%20%20elem.parentNode.removeChild(elem)%3B%0A%7D)%7D)()%3B)
+## [Hide GitHub Inline Comments](javascript:(function()%7B%2F**%0A%20*%20Run%20this%20bookmarklet%20on%20a%20GitHub%20code%20page.%20It%20will%20remove%20all%20of%20the%20inline%20comments%2C%20making%20it%20easier%20to%20copy%2Fpaste.%0A%20*%2F%0A%0Avar%20elements%20%3D%20document.querySelectorAll('.inline-comments')%3B%0Aelements.forEach((elem)%20%3D%3E%20%7B%0A%20%20%20%20elem.parentNode.removeChild(elem)%3B%0A%7D)%7D)()%3B)
 
 (Drag this link to your bookmarks bar)
 
