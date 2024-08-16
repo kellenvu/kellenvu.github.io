@@ -121,7 +121,7 @@ In order to write interesting insights, I came up with the **Although Principle*
 
 {% include alerts/info.html content="An insight is interesting if it can be rephrased as, \"**Although [counterargument], *actually* [insight].**\"" %}
 
-In other words, you want your insight to be **nuanced** and have some degree of **hot take.** 🔥
+In other words, you want your insight to be **nuanced**.
 
 Let's see this in action. Here's a clinical activity from [BeMo](https://bemoacademicconsulting.com/blog/amcas-work-activities-definitive-guide):
 
