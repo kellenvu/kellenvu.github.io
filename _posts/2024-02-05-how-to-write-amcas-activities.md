@@ -54,7 +54,7 @@ Here is the formula:
 - 1 sentence explaining the situation/task
 - 1 sentence explaining your action
 - 1 sentence explaining the result (ideally with metrics)
-- (Optional) 1 sentence explaining an ambition/insight(see [Insight](#insight))
+- (Optional) 1 sentence explaining an ambition/insight (see [Insight](#insight))
 
 Keep in mind that this template is just a guideline; you should adjust the number of sentences as needed to best convey your story.
 
