@@ -7,7 +7,7 @@ comments: true
 
 {% include elements/figure.html image="https://cdn.pixabay.com/photo/2015/01/08/18/26/man-593333_1280.jpg" caption="Source: Pixabay" %}
 
-Continuing my series on applying to medical school, today we're talking about the AMCAS **Work and Activities** section! I will leave the basics (requirements, character limits, etc.) to the [official sources](https://students-residents.aamc.org/how-apply-medical-school-amcas/section-5-amcas-application-work-and-activities)—instead, this article discusses the **writing strategies** that I used to get interviews at schools like Penn, UCSF, Mayo, Cornell, and NYU.
+Continuing my series on applying to medical school, today we're talking about the AMCAS **Work and Activities** section! I will leave the basics (requirements, character limits, etc.) to the [official sources](https://students-residents.aamc.org/how-apply-medical-school-amcas/section-5-amcas-application-work-and-activities)—instead, this article discusses the **writing strategies** that I used to get interviews at schools like UPenn, UCSF, Mayo, NYU, and Cornell.
 
 {% capture list_items %}
 Timing
@@ -68,13 +68,13 @@ This description has the situation and task, but lacks the action and result. Le
 
 > Experience: Summer Internship Perrigo Pharmaceuticals
 >
-> In the technical operations department of Perrigo Pharmaceuticals, I worked on the production of medications. One of my tasks was to refine the manufacturing procedures for medicinal tablets. After identifying a bottleneck in our packaging operations, I wrote a proposal to optimize our packaging process through third-party vendors. Ultimately, my proposal was successfully approved with a budget of $100k, leading to a 15% increase in manufacturing efficiency. This experience reaffirmed my interest in integrating business and pharmacology to develop interventions for conditions like diabetes–not only developing therapies but also bringing them to market to maximize patient impact.
+> I worked in the technical operations department of Perrigo Pharmaceuticals. One of my tasks was to refine the manufacturing procedures for medicinal tablets. After identifying a bottleneck in our outsourced packaging operations, I performed a cost-benefit analysis comparing different vendors and wrote a proposal to switch to the optimal vendor. Ultimately, my solution led to a 15% increase in manufacturing efficiency. This experience reaffirmed my interest in integrating business and pharmacology to not only develop therapies but also efficiently bring them to market to maximize patient impact.
 
 How did I make it more interesting?
 
 1. I described the specific action (proposal) that I took to address the task.
 
-1. I described the result with metrics (15% and $100k).
+1. I described the result with metrics (15%).
 
 1. For my takeaway, I described a future ambition (business + pharmacology for diabetes)—bonus points if the **overall application narrative** also focuses on this theme.
 
@@ -92,7 +92,7 @@ This research description is strong, but the research gap (situation) could be f
 
 > Experience: Clinton Lab
 >
-> Prior studies have shown that MALAT1 RNA can lead to tumorigenesis by inactivating the human tumor-suppressing protein SFPQ; however, the clinical applications of these findings are unclear. For this project, I helped develop a procedure to detect levels of MALAT1 RNA in a patient's blood as a potential early predictor for the presence of circulating tumor cells. One issue I encountered was that unknown factors in the blood plasma inhibited PCR amplification. To address this, I planned and executed a PCR optimization protocol, ultimately finding that magnesium could decrease inhibition of the PCR amplification by an average of 25%.
+> Prior studies have shown that MALAT1 RNA can lead to tumorigenesis by inactivating the human tumor-suppressing protein SFPQ; however, the clinical applications of these findings are unclear. For this project, I developed a procedure to detect levels of MALAT1 RNA in a patient's blood as a potential early predictor for the presence of circulating tumor cells. One issue I encountered was that unknown factors in the blood plasma inhibited PCR amplification. To address this, I planned and executed a PCR optimization protocol, ultimately finding that magnesium could decrease inhibition of the PCR amplification by an average of 25%.
 
 How did I make it more interesting?
 
@@ -113,9 +113,9 @@ An **insight description** highlights your critical thinking and nuance. If you 
 
 **What makes an interesting insight**? When it comes to writing insights, these are the most common pitfalls:
 
-1. **The insight is too vague**. One of the worst ways to wrap up a description is with a vague insight like, "Through this experience, I learned how to be compassionate," or, "I developed my communication skills." Takeaways like these lack substance. The reader is left wondering, *what* did you learn about compassion? *What* did you learn about communication?
+1. **The insight is too vague**. A weak way to wrap up a description is with a vague insight like, "Through this experience, I learned how to be compassionate," or, "I developed my communication skills." Takeaways like these lack substance. The reader is left wondering, *what* did you learn about compassion? *What* did you learn about communication?
 
-1. **The insight is too obvious**. Only slightly better than vague insights are obvious insights, which look like, "I learned that you have to be compassionate when working with difficult patients," or, "I learned that teamwork requires good communication." If a middle schooler wouldn't be impressed by your insight, then neither would a physician reader.
+1. **The insight is too obvious**. Another weak insight is the obvious insight, which look like, "I learned that you have to be compassionate when working with difficult patients," or, "I learned that teamwork requires good communication." If a middle schooler wouldn't be impressed by your insight, then neither would a physician reader.
 
 In order to write interesting insights, I came up with the **Although Principle**. The Although Principle states:
 
@@ -159,13 +159,13 @@ Again, this description struggles with a **vague insight** ("I learned organizat
 
 > Experience: Undergraduate Research Mentorship Program Supervisor
 >
-> URMP is a program that matches 30+ mentors with undergraduates who are new to research. As the program supervisor, I create survey forms, generate mentor-mentee pairings, and mentor two students myself! Through fostering dozens of pairings, I noticed that the mentees who consistently thrived were the ones who had a clear idea of their goals from the start, regardless of which mentor they were paired with. With this realization, I began hosting workshops for mentees about how to leverage mentorship effectively. These pre-mentorship workshops have received significant positive feedback.
+> URMP is a program that matches 30+ mentors with undergraduates who are new to research. As the program supervisor, I create survey forms, generate mentor-mentee pairings, and mentor two students myself! Through fostering dozens of pairings, I noticed that the mentees who consistently thrived were the ones who, from the start, had a clear idea of their goals and what they wanted out of the program—regardless of whom they were paired with. With this realization, I launched a monthly workshop for mentees about how to define tangible mentorship goals.
 
 How did I make it more interesting?
 
 1. I condensed the organization description into one sentence, to make more room for my own contributions.
 
-1. I demonstrated an insight that abides by the Although Principle: "**Although** you might expect the success of a mentor pairing to depend on the quality of the mentor, **actually** it depends more on the mentee's mindset."
+1. I demonstrated an insight that abides by the Although Principle: "**Although** you might expect the success of a mentor pairing to depend on the quality of the mentor, **actually** it depends more on the clarity of the mentee's goals."
 
 1. I demonstrated initiative by applying this insight to improve the program (pre-mentorship workshops).
 
