@@ -12,8 +12,9 @@ Bookmarklets are simple pieces of JavaScript code stored as bookmarks in your br
 {% capture list_items %}
 Compute Gradescope Raw Score
 Count Google Calendar Hours
-Get YouTube Transcript
+Get Google Calendar Availability
 Get Panopto Transcript
+Get YouTube Transcript
 Hide Retweets
 Hide GitHub Inline Comments
 {% endcapture %}
