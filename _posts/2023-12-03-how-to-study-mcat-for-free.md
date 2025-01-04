@@ -114,7 +114,7 @@ My MCAT journey proves that with the right mindset and resources, you can achiev
     - [Khan Academy MCAT prep](https://www.khanacademy.org/test-prep/mcat) (mainly the [organ systems section](https://www.khanacademy.org/test-prep/mcat/organ-systems))
     - [AK Lectures](https://aklectures.com/subject/biochemistry) for biochemistry
     - [JackWestin](https://jackwestin.com/resources/mcat-content) has an info page for every topic in the MCAT topics list
-    - [300-pg doc](https://www.reddit.com/r/MCATBros/comments/k5laqr/300_page_document_mcat_reddit_khan_notes_mcatbros/) for psych
+    - [300-page doc](https://www.dropbox.com/scl/fi/v66kj8b6g3v6kzsel4loq/Khan-Academy-Behavioral-Sciences-Review-300-page-notes-5-1-17-TOC.pdf?rlkey=rc8pnckh98xaj2gnxk0zd2hgo&e=1&dl=0) for psych
     - [Lab techniques doc](https://www.docdroid.net/4iqRfOq/mcat-lab-techniques-by-iwantahighmcatscore-pdf#page=5)
     - Google
     - And now ChatGPT
