@@ -11,7 +11,7 @@ weight: 4
     <img src="/assets/kellen-vu-retiro.jpg" alt="Profile Picture" class="mb-3 mb-md-0 mr-md-4 rounded" style="width: 200px;">
     <div>
         I was born and raised in Phoenix, AZ. I graduated from Stanford in 2023, where I studied Human Biology and Computer Science. Afterward, I worked in software engineering at <a href="https://www.meta.com/">Meta</a> and <a href="https://www.codex.health/">Codex Health</a>. I'm now a first-year medical student at <a href="https://weill.cornell.edu/">Weill Cornell Medicine</a>.<br><br>
-        My mission is to integrate medicine and technology to improve human health. At Stanford, my research focused on the neuroplasticity of eye movement control, informing potential therapies for cerebellar disorders. At Codex Health, I developed a remote patient monitoring app to support patients with cardiometabolic conditions like hypertension and diabetes. Currently, I'm training to become a physician at Weill Cornell Medicine.
+        My mission is to integrate medicine and technology to improve human health. At Stanford, my research focused on the neuroplasticity of eye movement control, informing potential therapies for cerebellar disorders. At Codex Health, I developed a remote patient monitoring app to support patients with cardiometabolic conditions like hypertension and diabetes. Currently, I'm training to become a physician at Weill Cornell Medicine in NYC (not Ithaca!).
     </div>
 </div>
 
