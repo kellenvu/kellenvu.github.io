@@ -46,12 +46,22 @@ Follow the tutorial above. At this point, you have successfully created an integ
 For example, you could POST a new task to my Kanban template by running the following Python code:
 
 ```python
-endpoint = "https://api.notion.com/v1/pages"
+import requests
+import json
+
+# Replace these placeholders with your actual values
+INTERNAL_INTEGRATION_SECRET = "your_secret_token"  # Notion API integration secret
+DATABASE_ID = "your_database_id"  # Notion database ID
+TASK_TITLE = "Example Task Title"  # Task title to be created in Notion
+TASK_CONTENT = "This is the content of the task."  # Additional details for the task
+ENDPOINT = "https://api.notion.com/v1/pages"
+
 headers = {
     "Authorization": f"Bearer {INTERNAL_INTEGRATION_SECRET}",
     "Content-Type": "application/json",
     "Notion-Version": "2022-06-28"
 }
+
 body = {
     "parent": {
         "database_id": DATABASE_ID
@@ -67,7 +77,7 @@ body = {
             ]
         },
         "Status": {  # This indentation level specifies the name of the property (e.g. "Status")
-            "select": {  # This indentation level specifies the type of the property (e.g. Select property)
+            "select": {  # This indentation level specifies the type of the property (e.g. a Select property)
                 "name": "High priority"
             }
         }
@@ -92,6 +102,8 @@ response = requests.post(endpoint, headers=headers, data=json.dumps(body))
 
 if response.status_code == 200:
     print("Task successfully posted to Notion!")
+else:
+    print(f"Failed to post task: {response.status_code}, {response.text}")
 ```
 
 If your database is set up differently, then you might have to modify some of the `properties` to match your setup.
