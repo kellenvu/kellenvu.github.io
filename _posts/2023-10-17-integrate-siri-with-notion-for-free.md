@@ -39,25 +39,9 @@ You can make a copy of my Notion template [here](https://lying-tent-403.notion.s
 
 ## Step 2: Set Up the Integration
 
-Go to [https://www.notion.so/my-integrations](https://www.notion.so/my-integrations), and make a new integration. Give it any name and the following capabilities:
+<iframe class="my-3" src="https://www.iorad.com/player/2496222/Add-an-integration-to-Notion?src=iframe&oembed=1" width="100%" height="500px" style="width: 100%; height: 500px; border-bottom: 1px solid #ccc;" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="camera; microphone; clipboard-write;" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
 
-<img src="/assets/posts/notion-capabilities.png" width="400px">
-
-Go to the `Secrets` tab. You should see an `Internal Integration Secret`. We will use this later.
-
-<img src="/assets/posts/notion-secret.png" width="700px">
-
-Go to the page that contains your Notion database and click `Open as full page`.
-
-<img src="/assets/posts/notion-open-as-full-page.png" width="700px">
-
-Examine the URL of this page. It should look something like `https://www.notion.so/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx?v=yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy`. Take note of the `xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx` part—this is the **database ID**.
-
-Click the meatballs menu in the top right, and click `Add connections`. Search for the name of the integration that you created earlier, and add it.
-
-<img src="/assets/posts/notion-connections.png" width="700px">
-
-At this point, you have successfully created an integration! Anyone with the internal integration secret and the database ID will be able to POST content to this database, or GET content from it, using an [API request](https://developers.notion.com/reference/post-page).
+Follow the tutorial above. At this point, you have successfully created an integration! Anyone with the internal integration secret and the database ID will be able to POST content to this database, or GET content from it, using an [API request](https://developers.notion.com/reference/post-page).
 
 For example, you could POST a new task to my Kanban template by running the following Python code:
 
