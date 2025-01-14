@@ -7,6 +7,8 @@ comments: true
 
 I created my TikTok account [@soundsandsimulations](https://www.tiktok.com/@soundsandsimulations) on July 6, 2024. The results since then speak for themselves: $700 earned per month, and 12k followers over 3 months.
 
+Edit (2025-01-14): The most I've made to date is $2.8k in one month.
+
 <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@soundsandsimulations" data-unique-id="soundsandsimulations" data-embed-from="embed_page" data-embed-type="creator" style="border-left: none; max-width:780px; min-width:288px;"> <section> <a target="_blank" href="https://www.tiktok.com/@soundsandsimulations?refer=creator_embed">@soundsandsimulations</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
 
 <img src="/assets/posts/tiktok-earnings.jpg" width="400px">
