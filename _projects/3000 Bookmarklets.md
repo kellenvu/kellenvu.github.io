@@ -114,3 +114,15 @@ Hide GitHub Inline Comments
 1. Click on this bookmarklet in your bookmarks bar.
 
 ![GitHub](/assets/projects/bookmarklet-hide-github.gif)
+
+---
+
+## [Open Unread Canvas Grades](javascript:(function()%7B%2F*%0AFinds%20all%20unread%20grade%20notifications%20on%20Canvas%20Grades%20page%20and%20opens%20each%20associated%20assignment%20in%20a%20new%20tab.%20Make%20sure%20to%20click%20%22allow%20pop-ups%22%20when%20you%20run%20this.%0A*%2F%0A%0Adocument.querySelectorAll(%22span.unread_dot.grade_dot%22).forEach((dot)%20%3D%3E%20%7B%0A%0A%20%20%20%20let%20parent%20%3D%20dot%3B%0A%0A%20%20%20%20for%20(let%20i%20%3D%200%3B%20i%20%3C%204%3B%20i%2B%2B)%20%7B%0A%20%20%20%20%20%20%20%20if%20(parent.parentElement)%20%7B%0A%20%20%20%20%20%20%20%20%20%20%20%20parent%20%3D%20parent.parentElement%3B%0A%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%0A%0A%20%20%20%20let%20titleElem%20%3D%20parent.querySelector(%22.title%22)%3B%0A%20%20%20%20if%20(titleElem)%20%7B%0A%20%20%20%20%20%20%20%20let%20link%20%3D%20titleElem.querySelector(%22a%22)%3B%0A%20%20%20%20%20%20%20%20if%20(link%20%26%26%20link.href)%20%7B%0A%20%20%20%20%20%20%20%20%20%20%20%20window.open(link.href%2C%20%22_blank%22)%3B%0A%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%0A%7D)%3B%7D)()%3B)
+
+(Drag this link to your bookmarks bar)
+
+**Purpose**: Automatically clicks all the unread graded assignments on the Canvas `Grades` page, in order to remove the notification bubble.
+
+1. Open the Canvas `Grades` page.
+1. Click on this bookmarklet in your bookmarks bar.
+1. If multiple pages are not opening, then click "Allow Pop-Ups" in your browser.
