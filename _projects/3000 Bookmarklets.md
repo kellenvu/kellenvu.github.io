@@ -17,6 +17,7 @@ Get Panopto Transcript
 Get YouTube Transcript
 Hide Retweets
 Hide GitHub Inline Comments
+Open Unread Canvas Grades
 {% endcapture %}
 {% include elements/list.html title="Table of Contents" type="toc" %}
 
