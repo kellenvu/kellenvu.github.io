@@ -1,6 +1,7 @@
 ---
 name: ChatDDX
 tools: [Svelte]
-description: Use AI to automatically reply to messages.
-external_url: https://routinehub.co/shortcut/22341/
+image: /assets/projects/chat-ddx.png
+description: AI-powered clinical vignettes for medical students.
+external_url: https://kellenvu.github.io/chat-ddx/
 ---
