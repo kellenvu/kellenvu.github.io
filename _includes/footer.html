@@ -1,7 +1,7 @@
 <footer class="mt-auto py-3 text-center">
 
     <small class="text-muted mb-2">
-        © {{ site.author.name }} 2025
+        © {{ site.author.name }} <span id="year"></span>
     </small>
 
     {% include social.html %}
@@ -21,4 +21,6 @@
             window.scrollTo({ top: 0, behavior: 'smooth' });
         });
     });
+
+    document.getElementById('year').textContent = new Date().getFullYear();
 </script>
